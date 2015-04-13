@@ -1,0 +1,503 @@
+anatomical line
+groove
+optic furrow
+anatomical space
+bile canaliculus
+choroidal fissure
+olfactory pit
+oral cavity
+semicircular canal
+anterior semicircular canal
+anterior crista
+dorsolateral septum
+pillar of the anterior semicircular canal
+lateral semicircular canal
+lateral crista
+pillar of the lateral semicircular canal
+pillar of the semicircular canal
+pillar of the posterior semicircular canal
+posterior semicircular canal
+posterior crista
+anatomical structure
+acellular anatomical structure
+Bowman's layer
+collagenous dermal stroma
+myoseptum
+horizontal myoseptum
+vertical myoseptum
+tooth cusp
+cell
+cementocyte
+digestive enzyme secreting cell
+endocrine cell
+folliculostellate cell
+pinealocyte
+glial cell
+mucus secreting cell
+neuromast mantle cell
+neuromast support cell
+olfactory support cell
+pigment cell
+iridophore
+gold iridophore
+silver iridophore
+melanocyte
+xanthophore
+organism subdivision
+head
+cranium
+chondrocranium
+exoccipital
+exoccipital posteroventral region
+prootic
+dermatocranium
+splanchnocranium
+pharyngeal arch 3-7 skeleton
+ceratobranchial bone
+ceratobranchial 5 bone
+ceratobranchial 5 tooth
+tooth 3V
+tooth 4V
+tooth 5V
+ceratobranchial cartilage
+ceratobranchial 1 cartilage
+ceratobranchial 2 cartilage
+ceratobranchial 3 cartilage
+ceratobranchial 4 cartilage
+ceratobranchial 5 cartilage
+copula
+copula 1
+copula 2
+hypobranchial cartilage
+eye
+cornea
+corneal endothelium
+corneal epithelium
+corneal stroma
+Descemet's membrane
+lens
+retina
+ciliary marginal zone
+retinal neural layer
+optic fiber layer
+retinal ganglion cell layer
+retinal inner nuclear layer
+retinal photoreceptor layer
+retinal pigmented epithelium
+visual pigment cell (sensu Vertebrata)
+naris
+anterior naris
+posterior naris
+pharyngeal arch
+pharyngeal arch 1
+pharyngeal arch 2
+pharyngeal arch 3-7
+pharyngeal arch 3
+aortic arch 3
+pharyngeal arch 4
+aortic arch 4
+pharyngeal arch 5
+aortic arch 5
+pharyngeal arch 6
+pharyngeal arch 7
+neuromere
+post-vent region
+caudal fin
+caudal fin musculature
+surface structure
+fin
+pectoral fin
+pectoral fin fold
+pectoral fin musculature
+abductor profundus
+adductor profundus
+superficial abductor
+superficial adductor
+pectoral fin skeleton
+pectoral fin cartilage
+pectoral girdle
+cleithrum
+pectoral fin vasculature
+pelvic fin
+integument
+dermis
+epidermis
+epidermal basal stratum
+epidermal superficial stratum
+proctodeum
+urogenital papilla
+vent
+trunk
+portion of tissue
+actinotrichium
+anterior swim bladder bud
+corpuscles of Stannius
+ganglion
+cranial ganglion
+lateral line ganglion
+anterior lateral line ganglion
+dorsal anterior lateral line ganglion
+ventral anterior lateral line ganglion
+posterior lateral line ganglion
+statoacoustic (VIII) ganglion
+trigeminal ganglion
+trunk ganglion
+dorsal root ganglion
+gonad primordium
+intervillus pockets
+intestinal villus
+lateral floor plate
+lateral line
+anterior lateral line
+anterior lateral line neuromast
+dorsal lateral line
+dorsal lateral line neuromast
+infraorbital lateral line
+infraorbital lateral line neuromast
+mandibular lateral line
+mandibular lateral line neuromast
+middle lateral line
+middle lateral line neuromast
+occipital lateral line
+occipital lateral line neuromast
+opercular lateral line
+opercular lateral line neuromast
+otic lateral line
+otic lateral line neuromast
+posterior lateral line
+posterior lateral line neuromast
+supraorbital lateral line
+supraorbital lateral line neuromast
+macula
+medial floor plate
+mesenchyme
+head mesenchyme
+notochord
+notochord posterior region
+roof plate diencephalic region
+roof plate rhombomere 1
+roof plate rhombomere 2
+roof plate rhombomere 3
+roof plate rhombomere 4
+roof plate rhombomere 5
+roof plate rhombomere 6
+roof plate rhombomere 7
+roof plate rhombomere 8
+roof plate rhombomere region
+roof plate spinal cord region
+stratum album centrale
+stratum fibrosum et griseum superficiale
+stratum griseum centrale
+stratum marginale
+stratum opticum
+stratum periventriculare
+tela chorioidea
+tela chorioidea fourth ventricle
+tela chorioidea tectal ventricle
+tela chorioidea telencephalic ventricle
+tela chorioidea third ventricle
+ventral wall of dorsal aorta
+whole organism
+female organism
+basidorsal
+neural arch
+intercalarium
+intercalarium articulating process
+intercalarium ascending process
+manubrium
+scaphium
+epibranchial 3 cartilage
+epibranchial 4 cartilage
+lamina orbitonasalis
+anatomical set
+anatomical cluster
+inner ear
+otolith organ
+otolith
+lapillus
+sagitta
+neural complex
+supraneural 2
+roofing cartilage
+supraneural 3
+neuromast
+oral region
+oral epithelium
+ventricular zone
+ventral mandibular arch
+Meckel's cartilage
+Weberian apparatus
+Weberian ossicle
+claustrum cartilage
+os suspensorium
+os suspensorium medial flange
+tripus
+Weberian vertebra
+vertebra 1
+vertebra 2
+vertebra 3
+vertebra 4
+reproductive system
+presumptive cardinal organ
+presumptive organ
+presumptive organ system
+nervous system
+central nervous system
+brain
+forebrain
+diencephalon
+diencephalic white matter
+cranial nerve II
+optic chiasm
+optic tract
+postoptic commissure
+tract of the postoptic commissure
+epithalamus
+habenula
+pineal complex
+epiphysis
+parapineal organ
+floor plate diencephalic region
+hypophysis
+adenohypophysis
+adrenocorticotropic hormone secreting cell
+prolactin secreting cell
+somatotropin secreting cell
+thyroid stimulating hormone secreting cell
+melanocyte stimulating hormone secreting cell
+hypothalamus
+lateral wall diencephalic region
+optic stalk
+telencephalon
+floor plate telencephalic region
+lateral wall telencephalic region
+olfactory bulb
+optic recess
+telencephalic white matter
+anterior commissure
+telencephalon diencephalon boundary
+forebrain midbrain boundary
+hindbrain
+cerebellum
+floor plate rhombomere region
+floor plate rhombomere 1
+floor plate rhombomere 2
+floor plate rhombomere 3
+floor plate rhombomere 4
+floor plate rhombomere 5
+floor plate rhombomere 6
+floor plate rhombomere 7
+floor plate rhombomere 8
+fourth ventricle
+hindbrain commissure
+midbrain
+lateral wall midbrain region
+optic tectum
+tectal ventricle
+tegmentum
+midbrain hindbrain boundary
+supraoptic tract
+lateral forebrain bundle
+floor plate
+floor plate spinal cord region
+peripheral motor axons
+roof plate
+spinal cord
+central canal
+ventricular system
+neuron
+peripheral nervous system
+lateral line system
+anterior lateral line system
+posterior lateral line system
+myelinating Schwann cell
+sensory system
+gustatory system
+taste bud
+olfactory system
+olfactory receptor cell
+peripheral olfactory organ
+olfactory epithelium
+olfactory rosette
+sensory neuron
+sensory axons peripheral
+vestibuloauditory system
+visual system
+Kolmer-Agduhr neuron
+hematopoietic system
+blood
+blood cell
+hematopoietic stem cell
+common lymphoid progenitor
+pro-T cell
+musculature system
+cephalic musculature
+fin musculature
+dorsal fin musculature
+trunk musculature
+abdominal musculature
+myotome
+fast muscle cell
+slow muscle cell
+cardiovascular system
+heart
+atrium
+bulbus arteriosus
+cardiac ventricle
+heart valve
+sinus venosus
+pericardium
+vasculature
+axial vasculature
+blood vasculature
+artery
+aortic arch
+carotid artery
+caudal artery
+dorsal aorta
+filamental artery
+hyaloid artery
+nasal artery
+opercular artery
+optic artery
+pectoral artery
+posterior communicating artery
+swim bladder artery
+cardinal system
+anterior cardinal vein
+common cardinal vein
+posterior cardinal vein
+thoracic duct
+vein
+caudal vein
+hepatic portal vein
+hyaloid vein
+median axial vein
+nasal vein
+optic vein
+pectoral vein
+trans-choroid plexus branch
+cranial vasculature
+brain vasculature
+choroid plexus vascular circuit
+lymph vasculature
+dorsal longitudinal lymphatic vessel
+intersegmental lymph vessel
+trunk vasculature
+muscle cell
+skeletal muscle cell
+digestive system
+D cell
+digestive system duct
+bile ductule
+common bile duct
+cystic duct
+extrahepatic duct
+hepatic duct
+intrahepatic bile duct
+pancreatic duct
+gall bladder
+gut
+enteric nervous system
+esophagus
+pneumatic duct
+gut absorptive cell
+gut endothelial cell
+intestine
+intestinal bulb
+mid intestine
+posterior intestine
+hepatopancreatic ampulla
+liver
+left liver lobe
+right liver lobe
+pancreatic system
+pancreas
+endocrine pancreas
+exocrine pancreas
+pharynx
+pharyngeal epithelium
+endocrine system
+thyroid follicle
+ultimobranchial body
+immune system
+kidney
+posterior kidney
+macrophage
+thymus
+lateral wall rhombomere 1
+lateral wall rhombomere 2
+lateral wall rhombomere 3
+lateral wall rhombomere 4
+lateral wall rhombomere 5
+lateral wall rhombomere 6
+lateral wall rhombomere 7
+lateral wall rhombomere 8
+nucleus of the tract of the postoptic commissure
+renal system
+podocyte
+skeletal system
+visceral organ
+CiA
+CiD
+CoLA
+CoPA
+CoSA
+DoLA
+MCoD
+MiP motor neuron
+RoP motor neuron
+UCoD
+VeLD
+secondary motor neuron
+serous membrane
+caudal vein plexus
+hair cell anterior macula
+hair cell posterior macula
+liver and biliary system
+ocular blood vessel
+hyaloid vessel
+optic choroid vascular plexus
+terminal nerve
+zona limitans intrathalamica
+basophilic erythroblast
+dorsolateral motor nucleus of vagal nerve
+larval melanophore stripe
+dorsal larval melanophore stripe
+lateral larval melanophore stripe
+ventral larval melanophore stripe
+yolk larval melanophore stripe
+axial fin skeleton
+dorsal fin skeleton
+trabecula cranii
+ceratohyal cartilage
+ethmoid cartilage
+hyohyoideus
+hyosymplectic cartilage
+sternohyoid
+larva
+medial motor nucleus of vagal nerve
+palatoquadrate cartilage
+quadrate
+quadrate ventral process
+interhyoideus
+ventral tooth row
+adductor operculi
+adductor hyomandibulae
+interhyal cartilage
+swim bladder
+interrenal gland
+levator operculi
+vertebra
+centrum
+specialized hemal arch and spine
+hypural
+hypural 1
+hypural 2
+hypural 3
+hypural 4
+hypural 5
+parhypural
+preural vertebra
+preural 1 vertebra
+supraneural

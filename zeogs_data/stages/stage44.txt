@@ -1,0 +1,1912 @@
+CaP motoneuron
+Mauthner axon
+anatomical line
+groove
+optic furrow
+sulcus ypsiloniformis
+ventral sulcus
+anatomical space
+bile canaliculus
+choroidal fissure
+coelom
+gall bladder
+gonad
+gamete
+ovary
+mesovarium
+ovarian follicle
+granulosa cell layer
+micropylar cell
+oocyte
+oocyte stage I
+oocyte stage II
+oocyte stage III
+oocyte stage IV
+oocyte stage V
+ovarian follicle stage I
+ovarian follicle stage II
+ovarian follicle stage III
+ovarian follicle stage IV
+postovulatory follicle
+thecal cell layer
+zona radiata
+testis
+Sertoli cell
+sperm duct
+spermatocyte
+spermatogonium
+heart
+atrium
+atrial endocardium
+atrial myocardium
+atrioventricular valve
+sinoatrial valve
+bulbus arteriosus
+bulbus arteriosus inner layer
+bulbus arteriosus middle layer
+bulbus arteriosus outer layer
+ventriculo bulbo valve
+cardiac conduction system
+atrioventricular node
+central cardiac conduction system
+distal conduction system
+peripheral cardiac conduction system
+sinoatrial node
+cardiac ventricle
+ventricular endocardium
+ventricular epicardium
+ventricular myocardium
+compact layer of ventricle
+trabecular layer of ventricle
+endocardium
+atrioventricular canal endocardium
+epicardium
+heart valve
+myocardium
+cardiac muscle cell
+trabecular layer
+sinus venosus
+kidney
+corpuscles of Stannius
+head kidney
+interrenal gland
+juxtaglomerular cell
+kidney vasculature
+afferent glomerular arteriole
+efferent glomerular arteriole
+glomerular capillary
+kidney blood vessel
+nephron
+renal corpuscle
+renal glomerular capsule
+renal glomerular capsule epithelium
+renal glomerulus
+glomerular basement membrane
+lamina densa
+lamina rara externa
+lamina rara interna
+mesonephric podocyte
+renal tubule
+distal early tubule
+distal late tubule
+proximal convoluted tubule
+proximal straight tubule
+renal principal cell
+posterior kidney
+renal duct
+collecting duct
+pancreas
+endocrine pancreas
+exocrine pancreas
+spleen
+swim bladder
+anterior chamber swim bladder
+ductus communicans
+posterior chamber swim bladder
+tunica externa
+tunica interna
+fontanel
+lateral fontanel of frontal
+foramen
+auditory fenestra
+auditory foramen
+basicapsular fenestra
+coracoid foramen
+dentary foramen
+foramen magnum
+inner ear foramen
+sacculoagenar foramen
+utriculosaccular foramen
+neuromast foramen
+olfactory nerve foramen
+optic foramen
+orbital foramen
+prootic foramen
+scapular foramen
+superficial ophthalmic nerve foramen
+fossa
+anterior myodome
+articular fossa of opercle
+sphenotic-prootic fossa
+prootic depression
+subtemporal fossa
+gill opening
+labial cavity
+lower oral valve
+upper oral valve
+olfactory pit
+opercular cavity
+oral cavity
+orbit
+pericardial cavity
+perilymphatic space
+atrium of sinus impar
+sinus impar
+pleuroperitoneal cavity
+pore
+pupil
+recessus lateralis
+renal capsular space
+semicircular canal
+anterior semicircular canal
+anterior crista
+dorsolateral septum
+pillar of the anterior semicircular canal
+lateral semicircular canal
+lateral crista
+pillar of the lateral semicircular canal
+pillar of the semicircular canal
+pillar of the posterior semicircular canal
+posterior semicircular canal
+posterior crista
+anatomical structure
+acellular anatomical structure
+basal lamina
+Bowman's layer
+inner limiting membrane
+myoseptum
+horizontal myoseptum
+vertical myoseptum
+outer limiting membrane
+tooth cusp
+anatomical group
+anatomical cluster
+anal fin pterygiophore
+anal fin distal radial
+anal fin proximal radial
+bony shelf above orbit
+chondrocranium
+basioccipital
+basioccipital posterodorsal region
+chondrocranium cartilage
+auditory capsule
+basal plate cartilage
+epiphyseal bar
+sclerotic cartilage
+taenia marginalis anterior
+taenia marginalis posterior
+tectum synoticum
+trabecula communis
+trabecula cranii
+epiotic
+exoccipital
+exoccipital posteroventral region
+kinethmoid bone
+lateral ethmoid
+mesethmoid bone
+orbitosphenoid
+preethmoid bone
+prootic
+pterosphenoid
+pterotic
+sclerotic bone
+anterior sclerotic bone
+posterior sclerotic bone
+sphenotic
+supraoccipital
+dermatocranium
+anguloarticular
+branchiostegal ray
+branchiostegal ray 1
+branchiostegal ray 2
+branchiostegal ray 3
+coronomeckelian
+dentary
+ectopterygoid
+entopterygoid
+frontal bone
+infraorbital
+infraorbital 1
+infraorbital 2
+infraorbital 3
+infraorbital 4
+infraorbital 5
+interopercle
+maxilla
+nasal bone
+opercle
+parasphenoid
+parietal bone
+posttemporal
+premaxilla
+premaxilla ascending process
+preopercle
+preopercle horizontal limb
+preopercle vertical limb
+prevomer
+subopercle
+supraethmoid
+supraorbital bone
+urohyal
+dorsal fin pterygiophore
+dorsal fin distal radial
+dorsal fin distal radial 1
+dorsal fin distal radial 2
+dorsal fin distal radial 3
+dorsal fin distal radial 4
+dorsal fin distal radial 5
+dorsal fin distal radial 6
+dorsal fin distal radial 7
+dorsal fin distal radial 8
+dorsal fin proximal radial
+dorsal fin proximal radial 1
+dorsal fin proximal radial 2
+dorsal fin proximal radial 3
+dorsal fin proximal radial 4
+dorsal fin proximal radial 5
+dorsal fin proximal radial 6
+dorsal fin proximal radial 7
+dorsal fin proximal radial 8
+dorsal fin pterygiophore 1
+dorsal fin pterygiophore 2
+dorsal fin pterygiophore 3
+dorsal fin pterygiophore 4
+dorsal fin pterygiophore 5
+dorsal fin pterygiophore 6
+dorsal fin pterygiophore 7
+dorsal fin pterygiophore 8
+dorsal hyoid arch
+hyomandibula
+hyosymplectic cartilage
+symplectic
+infraorbital series
+inner ear
+endolymph
+endolymphatic duct
+macula
+macula lagena
+macula neglecta
+macula saccule
+macula utricle
+otolith organ
+lagena
+asteriscus
+otolith
+lapillus
+sagitta
+saccule
+utricle
+pars inferior ear
+pars superior ear
+common crus
+joint
+autopalatine-lateral ethmoid joint
+autopalatine-maxillary joint
+autopalatine-vomer joint
+basioccipital-exoccipital joint
+cartilaginous joint
+mandibular symphysis
+vertebra 4-vertebra 5 joint
+vertebra 5-vertebra 6 joint
+vertebra 6 - vertebra 7 joint
+ceratohyal-branchiostegal ray joint
+ceratohyal-dorsal hypohyal joint
+ceratohyal-ventral hypohyal joint
+dentary-anguloarticular joint
+dorsal hypohyal-urohyal joint
+dorsal hypohyal-ventral hypohyal joint
+epihyal-branchiostegal ray joint
+epihyal-ceratohyal joint
+fibrous joint
+frontal-pterotic joint
+hyomandibula-metapterygoid joint
+hyomandibular-otic region joint
+inter-basipterygium joint
+inter-coracoid joint
+inter-frontal joint
+inter-hypobranchial 3 joint
+inter-premaxillary joint
+inter-ventral hypohyal joint
+interhyal-epihyal joint
+lateral ethmoid-frontal joint
+opercle-interopercle joint
+orbitosphenoid-lateral ethmoid joint
+orbitosphenoid-prootic joint
+prootic-exoccipital joint
+prootic-pterosphenoid joint
+pterosphenoid-orbitosphenoid joint
+quadrate-anguloarticular joint
+quadrate-hyomandibula joint
+quadrate-metapterygoid joint
+synovial joint
+synovial cell
+synovial fluid
+ventral hypohyal-urohyal joint
+lagenar capsule
+neural complex
+supraneural 2
+supraneural 3
+neurocranium
+neuromast
+anterior lateral line neuromast
+dorsal lateral line neuromast
+infraorbital lateral line neuromast
+mandibular lateral line neuromast
+middle lateral line neuromast
+neuromast hair cell
+neuromast mantle cell
+neuromast support cell
+occipital lateral line neuromast
+opercular lateral line neuromast
+otic lateral line neuromast
+posterior lateral line neuromast
+supraorbital lateral line neuromast
+occipital region
+notochord
+notochord posterior region
+olfactory region
+oral region
+oral epithelium
+orbital region
+otic region
+intercalar
+palate
+palatoquadrate arch
+autopalatine
+anterior dorsomedial process of autopalatine
+metapterygoid
+palatoquadrate cartilage
+quadrate
+quadrate ventral process
+pectoral girdle
+cleithrum
+coracoid
+extrascapula
+mesocoracoid bone
+postcleithrum
+scapula
+supracleithrum
+pelvic girdle
+basipterygium
+ciliary marginal zone
+ventricular zone
+sphenoid region
+splanchnocranium
+mandibular arch skeleton
+pharyngeal arch 2 skeleton
+pharyngeal arch 3-7 skeleton
+basibranchial
+basibranchial 1
+basibranchial 2
+basibranchial 3
+basibranchial 4
+ceratobranchial bone
+ceratobranchial 1 bone
+ceratobranchial 2 bone
+ceratobranchial 3 bone
+ceratobranchial 4 bone
+ceratobranchial 5 bone
+ceratobranchial 5 tooth
+cementocyte
+dentine
+enameloid
+tooth 1D
+tooth 1MD
+tooth 1V
+tooth 2D
+tooth 2MD
+tooth 2V
+tooth 3MD
+tooth 3V
+tooth 4MD
+tooth 4V
+tooth 5V
+tooth pulp
+odontoblast
+odontocyte
+ceratobranchial cartilage
+ceratobranchial 5 cartilage
+copula
+copula 1
+epibranchial bone
+epibranchial 1 bone
+epibranchial 2 bone
+epibranchial 3 bone
+epibranchial 4 bone
+epibranchial uncinate process
+epibranchial cartilage
+epibranchial 5
+gill raker
+hypobranchial bone
+hypobranchial 1 bone
+hypobranchial 2 bone
+hypobranchial 3 bone
+hypobranchial 4 bone
+hypobranchial cartilage
+hypobranchial 1 cartilage
+hypobranchial 2 cartilage
+hypobranchial 3 cartilage
+hypobranchial 4 cartilage
+pharyngeal arch 3 skeleton
+pharyngeal arch 4 skeleton
+pharyngobranchial 2 bone
+pharyngeal arch 5 skeleton
+pharyngobranchial 3 bone
+pharyngeal arch 6 skeleton
+pharyngobranchial 4 cartilage
+pharyngeal arch 7 skeleton
+pharyngobranchial bone
+pharyngeal arch cartilage
+articular cartilage
+basihyal cartilage
+basihyal bone
+ceratohyal cartilage
+ceratohyal bone
+epihyal
+hypohyal bone
+dorsal hypohyal bone
+ventral hypohyal bone
+gill ray
+interhyal cartilage
+Meckel's cartilage
+retroarticular
+pharyngobranchial cartilage
+suspensorium
+tooth row
+dorsal tooth row
+mediodorsal tooth row
+ventral tooth row
+ventral hyoid arch
+ventral mandibular arch
+Weberian apparatus
+Weberian ossicle
+claustrum bone
+claustrum cartilage
+intercalarium
+intercalarium articulating process
+intercalarium ascending process
+manubrium
+os suspensorium
+os suspensorium medial flange
+scaphium
+tripus
+Weberian vertebra
+vertebra 1
+parapophysis 1
+vertebra 2
+parapophysis 2
+vertebra 3
+neural arch 3
+vertebra 4
+neural arch 4
+parapophysis/rib
+anatomical system
+cardiovascular system
+lymphatic system
+lymph node
+lymph vasculature
+axial lymph vessel
+caudal fin lymph vessel
+cranial lymph vessel
+dorsal longitudinal lymphatic vessel
+facial lymphatic vessel
+intersegmental lymph vessel
+jugular lymphatic vessel
+longitudinal lateral lymphatic vessel
+lymph vessel endothelium
+lymphatic capillary
+pectoral lymphatic vessel
+thoracic duct
+pericardium
+vasculature
+axial vasculature
+axial blood vessel
+caudal artery
+caudal vein
+dorsal aorta
+ventral wall of dorsal aorta
+posterior cardinal vein
+blood vasculature
+arteriole
+artery
+afferent branchial artery
+afferent filamental artery
+afferent lamellar arteriole
+aortic arch
+aortic arch 3
+aortic arch 4
+aortic arch 5
+carotid artery
+celiacomesenteric artery
+central ray artery
+concurrent branch afferent branchial artery
+efferent branchial artery
+efferent filamental artery
+efferent lamellar arteriole
+filamental artery
+hepatic artery
+hyaloid artery
+inner optic circle
+internal carotid artery
+nasal artery
+opercular artery
+optic artery
+pectoral artery
+posterior communicating artery
+recurrent branch afferent branchial artery
+renal artery
+segmental intercostal artery
+spinal artery
+swim bladder artery
+ventral aorta
+capillary
+cardinal system
+anterior cardinal vein
+common cardinal vein
+vein
+central vein
+hepatic portal vein
+hepatic vein
+hyaloid vein
+median axial vein
+nasal vein
+optic vein
+pectoral vein
+ray vein
+renal portal vein
+trans-choroid plexus branch
+venule
+cranial vasculature
+brain vasculature
+choroid plexus
+choroid plexus epithelial cell
+choroid plexus fourth ventricle
+choroid plexus tectal ventricle
+choroid plexus telencephalic ventricle
+choroid plexus third ventricle
+choroid plexus vascular circuit
+cranial blood vessel
+ocular blood vessel
+hyaloid vessel
+optic choroid vascular plexus
+pharyngeal vasculature
+fin vasculature
+caudal fin vasculature
+caudal fin blood vessel
+fin blood vessel
+interray vessel
+intervessel commissure
+pectoral fin blood vessel
+fin lymph vessel
+pectoral fin lymph vessel
+pectoral fin vasculature
+microcirculatory vessel
+post-vent vasculature
+trunk vasculature
+hepatic sinusoid
+vascular endothelium
+blood vessel endothelium
+blood vessel endothelial cell
+endothelial tip cell
+continuous blood vessel endothelium
+fenestrated blood vessel endothelium
+sinusoidal blood vessel endothelium
+digestive system
+D cell
+digestive enzyme secreting cell
+digestive system duct
+bile ductule
+common bile duct
+cystic duct
+extrahepatic duct
+extrapancreatic duct
+hepatic duct
+intrahepatic bile duct
+pancreatic duct
+gut
+cloacal chamber
+enteric musculature
+enteric circular muscle
+enteric longitudinal muscle
+enteric nervous system
+esophagus
+esophageal epithelium
+pneumatic duct
+gut absorptive cell
+gut endothelial cell
+gut epithelium
+intestinal epithelium
+enterocyte
+goblet cell
+intervillus pockets
+intestinal bulb epithelium
+intestinal villus
+mid intestine epithelium
+posterior intestine epithelium
+intestine
+intestinal bulb
+intestinal mucosal muscle
+mid intestine
+posterior intestine
+proctodeum
+hepatopancreatic ampulla
+liver
+hepatocyte
+left liver lobe
+right liver lobe
+ventral liver lobe
+mouth
+dental plate
+lip
+lip epithelium
+lower lip
+upper lip
+tongue
+pancreatic system
+pancreatic A cell
+pancreatic B cell
+pharynx
+pharyngeal epithelium
+endocrine system
+endocrine cell
+biogenic amine secreting cell
+epinephrin secreting cell
+norepinephrin secreting cell
+serotonin secreting cell
+enteroendocrine cell
+folliculostellate cell
+neuroendocrine cell
+chromaffin cell
+peptide hormone secreting cell
+adrenocorticotropic hormone secreting cell
+calcitonin secreting cell
+endorphin secreting cell
+enkephalin secreting cell
+follicle stimulating hormone secreting cell
+glucagon secreting cell
+insulin secreting cell
+luteinizing hormone secreting cell
+melanocyte stimulating hormone secreting cell
+parathyroid hormone secreting cell
+prolactin secreting cell
+somatostatin secreting cell
+somatotropin secreting cell
+substance P secreting cell
+thyroid stimulating hormone secreting cell
+pinealocyte
+steroid hormone secreting cell
+androgen secreting cell
+theca cell
+estradiol secreting cell
+glucocorticoid secreting cell
+granulosa cell
+progesterone secreting cell
+testosterone secreting cell
+Leydig cell
+thyroid hormone secreting cell
+epiphysis
+hypophysis
+adenohypophysis
+pars anterior
+pars intermedia
+pars tuberalis
+neurohypophysis
+infundibulum
+thyroid follicle
+ultimobranchial body
+hematopoietic system
+blood
+blood cell
+reticulocyte
+thrombocyte
+hematopoietic stem cell
+common lymphoid progenitor
+lymphocyte
+B cell
+mature B cell
+memory B cell
+naive B cell
+precursor B cell
+immature B cell
+transitional stage B cell
+natural killer cell
+immature natural killer cell
+mature natural killer cell
+plasma cell
+T cell
+alpha-beta T cell
+gamma-delta T cell
+immature gamma-delta T cell
+mature gamma-delta T cell
+gamma-delta intraepithelial T cell
+memory T cell
+pro-B cell
+pro-NK cell
+pro-T cell
+common myeloid progenitor
+granulocyte monocyte progenitor cell
+monoblast
+promonocyte
+monocyte
+macrophage
+microglial cell
+peritoneal macrophage
+osteoclast
+mononuclear osteoclast
+mononuclear odontoclast
+odontoclast
+myeloblast
+neutrophilic myeloblast
+neutrophilic promyelocyte
+immature neutrophil
+band form neutrophil
+mature neutrophil
+neutrophilic metamyelocyte
+neutrophilic myelocyte
+neutrophil progenitor cell
+megakaryocyte erythroid progenitor cell
+erythroid progenitor cell
+thromboblast
+myeloid cell
+erythroid lineage cell
+erythroblast
+basophilic erythroblast
+polychromatophilic erythroblast
+myeloid leukocyte
+granulocyte
+neutrophil
+hematopoietic multipotent progenitor cell
+lymphoid progenitor cell
+myeloid lineage restricted progenitor cell
+leukocyte
+mononuclear cell
+mononuclear phagocyte
+professional antigen presenting cell
+dendritic cell
+immune system
+mucus secreting cell
+thymus
+liver and biliary system
+musculature system
+cephalic musculature
+extraocular musculature
+dorsal oblique extraocular muscle
+dorsal rectus
+lateral rectus
+medial rectus
+ventral oblique extraocular muscle
+ventral rectus
+head muscle
+branchial muscle
+adductor
+caudal levator
+caudal oblique
+dorsal oblique branchial muscle
+dorsal retractor
+dorsal transverse
+esophageal sphincter
+external levatores
+external pharyngoclavicularis
+internal levator
+internal pharyngoclavicularis
+pharyngohyoid
+ventral oblique branchial muscle
+ventral transverse
+hyoid muscle
+abductor hyohyoid
+adductor arcus palatini
+adductor hyohyoid
+adductor operculi
+adductor hyomandibulae
+hyohyoideus
+inferior hyohyoid
+levator operculi
+protractor hyoidei
+interhyoideus
+sternohyoid
+mandibular muscle
+constrictor dorsalis
+dilator operculi
+intermandibularis
+ventral intermandibularis anterior
+ventral intermandibularis posterior
+levator arcus palatini
+sternohyoid
+pharyngeal musculature
+fin musculature
+anal fin musculature
+anal depressor
+anal erector
+anal inclinator
+caudal fin musculature
+inferior caudal dorsal flexor
+external lateral ventral muscle
+hypural muscle
+inferior caudal ventral flexor
+interradialis caudalis
+longitudinal hypochordal
+superior caudal dorsal flexor
+superior caudal ventral flexor
+dorsal fin musculature
+dorsal depressor
+dorsal erector
+dorsal inclinator
+pectoral fin musculature
+abductor profundus
+adductor profundus
+coracoradialis
+superficial abductor
+superficial adductor
+ventral arrector
+pelvic fin musculature
+dorsal pelvic arrector
+pelvic abductor profundus
+pelvic adductor profundus
+superficial pelvic abductor
+superficial pelvic adductor
+ventral pelvic arrector
+muscle
+cardiac muscle
+epaxialis
+hypaxialis
+infracarinalis
+muscle cell
+skeletal muscle cell
+fast muscle cell
+slow muscle cell
+smooth muscle cell
+vascular associated smooth muscle cell
+myotome
+pericardial muscle
+skeletal muscle
+abductor muscle
+adductor muscle
+adductor mandibulae complex
+arrector muscle
+dorsal arrector
+depressor muscle
+erector muscle
+flexor muscle
+inclinator muscle
+smooth muscle
+vascular smooth muscle
+superficial lateralis
+supracarinalis
+trunk musculature
+abdominal musculature
+nervous system
+autonomic nervous system
+autonomic neuron
+adrenergic neuron
+cholinergic neuron
+dopaminergic neuron
+GABAergic neuron
+glutamatergic neuron
+nitrergic neuron
+peptidergic neuron
+parasympathetic nervous system
+sympathetic nervous system
+superior cervical ganglion
+sympathetic chain ganglion
+central nervous system
+brain
+forebrain
+diencephalon
+caudal tuberculum
+caudal thalamic nucleus
+caudal tuberal nucleus
+corpus mamillare
+intermediate nucleus
+nucleus subglomerulosis
+paraventricular organ
+periventricular nucleus of caudal tuberculum
+preglomerular nucleus
+caudal preglomerular nucleus
+lateral preglomerular nucleus
+medial preglomerular nucleus
+rostral preglomerular nucleus
+tertiary gustatory nucleus
+torus lateralis
+diencephalic nucleus
+accessory pretectal nucleus
+caudal periventricular hypothalamus
+caudal pretectal nucleus
+central caudal thalamic nucleus
+central nucleus inferior lobe
+central pretectal nucleus
+diffuse nucleus inferior lobe
+dorsal accessory optic nucleus
+dorsal caudal thalamic nucleus
+lateral hypothalamic nucleus
+magnocellular preoptic nucleus
+gigantocellular part of magnocellular preoptic nucleus
+magnocellular superficial pretectal nucleus
+nucleus of the lateral recess
+nucleus of the medial longitudinal fasciculus synencephalon
+nucleus of the posterior recess
+nucleus of the tract of the postoptic commissure
+paracommissural nucleus
+parvocellular preoptic nucleus
+caudal parvocellular preoptic nucleus
+rostral parvocellular preoptic nucleus
+parvocellular superficial pretectal nucleus
+periventricular nucleus
+pretectal periventricular nucleus
+rostral thalamic nucleus
+rostral tuberal nucleus
+subcommissural organ
+suprachiasmatic nucleus
+ventral accessory optic nucleus
+diencephalic white matter
+caudal commissure
+tract of the caudal commissure
+commissure of the caudal tuberculum
+cranial nerve II
+optic nerve head
+fasciculus retroflexus
+habenular commissure
+horizontal commissure
+lateral forebrain bundle diencephalon
+medial forebrain bundle diencephalon
+optic chiasm
+optic tract
+dorsomedial optic tract
+ventrolateral optic tract
+postoptic commissure
+tract of the postoptic commissure
+pretecto-mammillary tract
+supraoptic commissure
+epithalamus
+habenula
+dorsal habenular nucleus
+ventral habenular nucleus
+saccus dorsalis
+hypothalamus
+dorsal hypothalamic zone
+dorsal periventricular hypothalamus
+inferior lobe
+median tuberal portion
+caudal hypothalamic zone
+ventral hypothalamic zone
+optic stalk
+preoptic area
+pretectum
+central pretectum
+superficial pretectum
+synencephalon
+thalamus
+dorsal thalamus
+ventral thalamus
+intermediate thalamic nucleus
+rostrolateral thalamic nucleus of Butler & Saidel
+ventrolateral thalamic nucleus
+ventromedial thalamic nucleus
+zona limitans intrathalamica
+third ventricle
+lateral recess
+posterior recess
+tela chorioidea third ventricle
+eminentia thalami
+telencephalon
+dorsal telencephalon
+caudal zone of dorsal telencephalon
+central zone of dorsal telencephalon
+dorsal zone of dorsal telencephalon
+lateral zone of dorsal telencephalon
+medial zone of dorsal telencephalon
+nucleus taeniae
+olfactory bulb
+external cellular layer
+glomerular layer
+internal cellular layer
+olfactory granule cell
+primary olfactory fiber layer
+optic recess
+telencephalic nucleus
+dorsal entopeduncular nucleus of ventral telencephalon
+nucleus of the tract of the anterior commissure
+pars subcommissuralis of ventral telencephalon
+peripheral nucleus of ventral telencephalon
+central nucleus of ventral telencephalon
+lateral nucleus of ventral telencephalon
+periventricular nucleus of ventral telencephalon
+dorsal nucleus of ventral telencephalon
+postcommissural nucleus of ventral telencephalon
+supracommissural nucleus of ventral telencephalon
+ventral nucleus of ventral telencephalon
+ventral entopeduncular nucleus of ventral telencephalon
+telencephalic ventricle
+tela chorioidea telencephalic ventricle
+telencephalic white matter
+anterior commissure
+commissura rostral, pars dorsalis
+commissura rostral, pars ventralis
+lateral forebrain bundle telencephalon
+lateral olfactory tract
+medial forebrain bundle telencephalon
+medial olfactory tract
+ventral telencephalon
+telencephalon diencephalon boundary
+forebrain midbrain boundary
+granule cell
+cerebellar granule cell
+hindbrain
+cerebellum
+cerebellar white matter
+commissura cerebelli
+commissure of the secondary gustatory nucleus
+cerebellovestibular tract
+corpus cerebelli
+climbing fiber
+granular layer corpus cerebelli
+molecular layer corpus cerebelli
+parallel fiber
+mossy fiber
+Purkinje cell layer corpus cerebelli
+Purkinje cell
+rostral cerebellar tract
+caudal mesencephalo-cerebellar tract
+rostral mesencephalo-cerebellar tract
+valvula cerebelli
+eurydendroid cell
+granular layer valvula cerebelli
+lateral valvula cerebelli
+medial valvula cerebelli
+molecular layer valvula cerebelli
+Purkinje cell layer valvula cerebelli
+vestibulolateralis lobe
+granular eminence
+medial caudal lobe
+fourth ventricle
+tela chorioidea fourth ventricle
+hindbrain commissure
+hindbrain interneuron
+CaD
+CaV
+MiD2cl
+MiD2cm
+MiD2i
+MiD3cl
+MiD3cm
+MiD3i
+MiM1
+MiR1
+MiR2
+MiV1
+MiV2
+RoI2C
+RoI2R
+RoL1
+RoL2
+RoL2c
+RoL2r
+RoL3
+RoM1c
+RoM1r
+RoM2l
+RoM2m
+RoM3l
+RoM3m
+RoV3
+t-interneuron
+hindbrain nucleus
+abducens motor nucleus
+caudal motor nucleus
+rostral motor nucleus
+facial nerve motor nucleus
+griseum centrale
+lateral line sensory nucleus
+caudal octavolateralis nucleus
+decussation of the medial octavolateralis nucleus
+medial octavolateralis nucleus
+cerebellar crest
+medial funicular nucleus medulla oblongata
+vagal lobe
+dorsolateral motor nucleus of vagal nerve
+medial motor nucleus of vagal nerve
+nucleus isthmi
+nucleus lateralis valvulae
+nucleus of the medial longitudinal fasciculus medulla oblongata
+octaval nerve motor nucleus
+caudal octaval nerve motor nucleus
+rostral octaval nerve motor nucleus
+octaval nerve sensory nucleus
+caudal octaval nucleus
+descending octaval nucleus
+magnocellular octaval nucleus
+rostral octaval nucleus
+tangential nucleus
+medulla oblongata
+area postrema
+caudal root of abducens nerve
+decussation of medial funicular nucleus
+descending trigeminal root
+dorsal motor root of V
+facial lobe
+glossopharyngeal lobe
+inferior olive
+interpeduncular nucleus medulla oblongata
+lateral longitudinal fasciculus
+locus coeruleus
+reticular formation
+lateral column
+lateral reticular nucleus
+medial column
+inferior reticular formation
+intermediate reticular formation
+superior reticular formation medial column
+midline column
+raphe nucleus
+inferior raphe nucleus
+superior raphe nucleus
+rostral root of abducens nerve
+secondary gustatory nucleus medulla oblongata
+secondary gustatory tract
+sensory root of facial nerve
+sensory trigeminal nucleus
+isthmic primary nucleus
+medial funicular nucleus trigeminal nucleus
+mesencephalic nucleus of trigeminal nerve
+nucleus of the descending root
+secondary gustatory nucleus trigeminal nucleus
+trigeminal motor nucleus
+dorsal motor nucleus trigeminal nerve
+ventral motor nucleus trigeminal nerve
+ventral rhombencephalic commissure medulla oblongata
+visceromotor column
+viscerosensory commissural nucleus of Cajal
+statoacoustic (VIII) nucleus
+midbrain
+MeL
+MeLc
+MeLm
+MeLr
+MeM
+MeM1
+midbrain nucleus
+central nucleus torus semicircularis
+ventrolateral nucleus
+optic tectum
+central zone of the optic tectum
+deep white zone
+intertectal commissure
+periventricular grey zone
+stratum album centrale
+stratum fibrosum et griseum superficiale
+stratum griseum centrale
+stratum marginale
+stratum opticum
+stratum periventriculare
+superficial grey and white zone
+tectal ventricle
+tela chorioidea tectal ventricle
+tegmentum
+cranial nerve III
+cranial nerve IV
+dorsal tegmental nucleus
+interpeduncular nucleus tegmentum
+lateral lemniscus nucleus
+nucleus Edinger-Westphal
+nucleus ruber
+oculomotor nucleus
+rostral tegmental nucleus
+superior reticular formation tegmentum
+trochlear motor nucleus
+torus longitudinalis
+torus semicircularis
+midbrain hindbrain boundary
+supraoptic tract
+anterior catecholaminergic tract
+brainstem and spinal white matter
+ansulate commissure
+bulbo-spinal tract
+commissure infima of Haller
+dorsal longitudinal fasciculus
+medial longitudinal fasciculus
+tecto-bulbar tract
+crossed tecto-bulbar tract
+uncrossed tecto-bulbar tract
+ventral rhombencephalic commissure
+vestibulo-spinal tract
+endohypothalamic tract
+lateral forebrain bundle
+medial forebrain bundle
+medial longitudinal catecholaminergic tract
+preopticohypothalamic tract
+floor plate
+grey matter
+neuromere
+spinal neuromere
+peripheral motor axons
+spinal cord
+central canal
+dorsal funiculus
+dorsal horn spinal cord
+dorsal root
+lateral funiculus
+spinal cord interneuron
+bifurcate interneuron
+CoB
+CoBL
+CiA
+CiD
+CoLA
+CoPA
+CoSA
+DoLA
+Kolmer-Agduhr neuron
+MCoD
+UCoD
+VeLD
+ventral funiculus
+ventral horn spinal cord
+ventral root
+white matter
+cranial nerve
+anterior lateral line nerve
+dorsal anterior lateral line nerve
+ventral anterior lateral line nerve
+cranial nerve I
+cranial nerve IX
+cranial nerve root
+vagal root
+cranial nerve V
+cranial nerve VI
+cranial nerve VII
+hyoideomandibular nerve
+cranial nerve VIII
+ampullary nerve
+cranial nerve X
+posterior lateral line nerve
+middle lateral line nerve
+terminal nerve
+ependymal cell
+glial cell
+glial cell (sensu Vertebrata)
+macroglial cell
+astrocyte
+Bergmann glial cell
+ependymoglial cell
+Muller cell
+oligodendrocyte
+perineuronal satellite cell
+myelinating Schwann cell
+terminal Schwann cell
+neuron
+afferent neuron
+sensory neuron
+extramedullary cell
+CNS neuron (sensu Vertebrata)
+basket cell
+Cajal-Retzius cell
+CNS interneuron
+CNS long range interneuron
+CNS short range interneuron
+midbrain interneuron
+Golgi cell
+pyramidal cell
+retinal ganglion cell
+stellate cell
+efferent neuron
+motor neuron
+spinal accessory motor neuron
+neurosecretory neuron
+interneuron
+amacrine cell
+bipolar neuron
+retinal bipolar neuron
+cone retinal bipolar cell
+OFF-bipolar cell
+ON-bipolar cell
+rod bipolar cell
+horizontal cell
+inhibitory interneuron
+stellate interneuron
+neuroglioform cell
+multipolar neuron
+peripheral neuron
+polymodal neuron
+pseudounipolar neuron
+receptor cell (sensu Animalia)
+auditory receptor cell
+chemoreceptor cell
+olfactory receptor cell
+ciliated olfactory receptor neuron
+crypt olfactory receptor neuron
+microvillous olfactory receptor neuron
+taste receptor cell
+mechanoreceptor cell
+hair cell
+hair cell anterior macula
+hair cell posterior macula
+pain receptor cell
+photoreceptor cell
+eye photoreceptor cell
+retinal cone cell
+retinal rod cell
+UV sensitive photoreceptor cell
+visible light photoreceptor cell
+photopic photoreceptor cell
+blue sensitive photoreceptor cell
+green sensitive photoreceptor cell
+red sensitive photoreceptor cell
+stretch receptor cell
+pressoreceptor cell
+thermoreceptor cell
+secondary neuron
+sensory processing neuron
+serotonergic neuron
+unipolar neuron
+peripheral nervous system
+ganglion
+cranial ganglion
+epibranchial ganglion
+facial ganglion
+glossopharyngeal ganglion
+vagal ganglion
+vagal ganglion 1
+vagal ganglion 2
+vagal ganglion 3
+vagal ganglion 4
+lateral line ganglion
+anterior lateral line ganglion
+dorsal anterior lateral line ganglion
+ventral anterior lateral line ganglion
+middle lateral line ganglion
+posterior lateral line ganglion
+statoacoustic (VIII) ganglion
+trigeminal ganglion
+trunk ganglion
+dorsal root ganglion
+lateral line system
+anterior lateral line system
+anterior lateral line
+infraorbital lateral line
+mandibular lateral line
+middle lateral line
+occipital lateral line
+opercular lateral line
+otic lateral line
+supraorbital lateral line
+head sensory canal system
+infraorbital sensory canal
+otic sensory canal
+post-otic sensory canal
+preoperculo-mandibular sensory canal
+mandibular sensory canal
+preopercular sensory canal
+supraorbital sensory canal
+lateral line
+dorsal lateral line
+posterior lateral line
+lateral line nerve
+middle lateral line system
+posterior lateral line system
+sensory canal
+sensory canal tubule
+supratemporal sensory canal
+trunk sensory canal
+primitive meninx
+tela chorioidea
+renal system
+mesonephric duct
+podocyte
+reproductive system
+oviduct
+urogenital papilla
+respiratory system
+gill
+branchiostegal membrane
+gill filament
+gill ionocyte
+gill lamella
+pharyngeal arch 3-7
+pharyngeal arch 3
+pharyngeal arch 4
+pharyngeal arch 5
+pharyngeal arch 6
+pharyngeal arch 7
+sensory system
+gustatory system
+taste bud
+olfactory system
+peripheral olfactory organ
+naris
+anterior naris
+posterior naris
+olfactory epithelium
+olfactory rosette
+olfactory support cell
+sensory axons peripheral
+vestibuloauditory system
+transverse canal
+visual system
+eye
+annular ligament
+ciliary zone
+cornea
+corneal endothelium
+corneal endothelial cell
+corneal epithelium
+corneal stroma
+Descemet's membrane
+iris
+lens
+lens epithelium
+optic choroid
+retina
+retinal neural layer
+optic fiber layer
+retinal ganglion cell layer
+retinal inner nuclear layer
+retinal inner plexiform layer
+retinal outer nuclear layer
+retinal outer plexiform layer
+retinal photoreceptor layer
+photoreceptor inner segment layer
+photoreceptor outer segment layer
+retinal pigmented epithelium
+visual pigment cell (sensu Vertebrata)
+skeletal system
+cranium
+cranial cartilage
+paired fin skeleton
+paired fin cartilage
+pectoral fin cartilage
+pelvic fin cartilage
+basipterygium cartilage
+pelvic radial cartilage
+pelvic radial 1 cartilage
+pelvic radial 1
+pelvic radial 2 cartilage
+pelvic radial 2
+pelvic radial 3 cartilage
+pelvic radial 3
+pectoral fin skeleton
+pectoral fin lepidotrichium
+pectoral fin lepidotrichium 1
+pectoral fin lepidotrichium 2
+pectoral fin lepidotrichium 3
+pectoral fin lepidotrichium 4
+pectoral fin lepidotrichium 5
+pectoral fin lepidotrichium 6
+pectoral fin lepidotrichium 7
+pectoral fin radial
+pectoral fin distal radial
+propterygium
+pectoral fin proximal radial
+pelvic fin skeleton
+pelvic fin lepidotrichium
+pelvic fin lepidotrichium 1
+pelvic fin lepidotrichium 2
+pelvic fin lepidotrichium 3
+pelvic fin lepidotrichium 4
+pelvic radial
+postcranial axial skeleton
+axial fin skeleton
+anal fin skeleton
+anal fin lepidotrichium
+anal fin lepidotrichium 1
+anal fin lepidotrichium 2
+anal fin lepidotrichium 3
+anal fin lepidotrichium 4
+anal fin lepidotrichium 5
+anal fin lepidotrichium 6
+anal fin lepidotrichium 7
+branched anal fin ray
+caudal fin skeleton
+caudal fin lepidotrichium
+branched caudal fin ray
+caudal fin principal ray
+caudal fin principal ray 1
+caudal fin principal ray 2
+caudal fin principal ray 3
+caudal fin principal ray 4
+caudal fin principal ray 5
+caudal fin principal ray 6
+caudal fin principal ray 7
+caudal fin principal ray 8
+caudal fin principal ray 9
+caudal fin principal ray 10
+caudal fin principal ray 11
+caudal fin principal ray 12
+caudal fin principal ray 14
+caudal fin principal ray 15
+caudal fin principal ray 16
+caudal fin principal ray 17
+caudal fin principal ray 18
+caudal fin principal ray 19
+caudal fin procurrent ray
+caudal fin dorsal procurrent ray
+caudal fin ventral procurrent ray
+epural
+preural centrum 1+ ural centrum 1
+preural vertebra
+preural 1 vertebra
+parhypural
+hypurapophysis
+preural 2 vertebra
+specialized hemal arch and spine
+hypural
+hypural 1
+hypural 2
+hypural 3
+hypural 4
+hypural 5
+ural vertebra 2
+ural centrum 2
+uroneural
+urostyle
+rudimentary neural arch
+dorsal fin skeleton
+dorsal fin lepidotrichium
+branched dorsal fin ray
+dorsal fin lepidotrichium 1
+dorsal fin lepidotrichium 2
+dorsal fin lepidotrichium 3
+dorsal fin lepidotrichium 4
+dorsal fin lepidotrichium 5
+dorsal fin lepidotrichium 6
+dorsal fin lepidotrichium 7
+intermuscular bone
+epineural
+epipleural
+postcranial axial cartilage
+basiventral
+hemal arch
+hemal postzygapophysis
+hemal prezygapophysis
+hemal spine
+parapophysis
+median fin cartilage
+supradorsal
+supraneural
+post-Weberian supraneural
+supraneural 5
+supraneural 6
+supraneural 7
+supraneural 8
+supraneural 9
+vertebral column
+vertebra
+caudal vertebra
+centrum
+neural arch
+neural postzygapophysis
+neural prezygapophysis
+neural spine
+neural spine 4
+precaudal vertebra
+non-Weberian precaudal vertebra
+rib
+rib of vertebra 1
+rib of vertebra 2
+rib of vertebra 3
+rib of vertebra 4
+rib of vertebra 5
+rib of vertebra 6
+vertebra 5
+vertebra 6
+vertebra 7
+vertebra 8
+vertebra 9
+vertebra 10
+vertebra 11
+vertebra 12
+ventricular system
+pineal complex
+epiphyseal stalk
+parapineal organ
+cell
+absorptive cell
+acid secreting cell
+acinar cell
+adrenal medulla cell
+alkali secreting cell
+ameloblast
+amelocyte
+auditory epithelial support cell
+barrier cell
+insulating cell
+lining cell
+endothelial cell
+mesothelial cell
+barrier epithelial cell
+cardiac mesenchymal cell
+cementoblast
+choroidal cell of the eye
+ciliated cell
+ciliated epithelial cell
+multi-ciliated epithelial cell
+single ciliated epithelial cell
+circulating cell
+dental papilla cell
+early embryonic cell
+electrically active cell
+electrically responsive cell
+electrically signaling cell
+epithelial cell
+columnar/cuboidal epithelial cell
+brush border epithelial cell
+cerebrospinal fluid secreting cell
+myoepithelial cell
+pigmented epithelial cell
+sensory epithelial cell
+simple columnar epithelial cell
+fenestrated cell
+ionocyte
+integument ionocyte
+NaK ionocyte
+vH ionocyte
+M cell
+squamous epithelial cell
+corneal epithelial cell
+epidermal cell
+hypodermal cell
+peridermal cell
+stratified cuboidal epithelial cell
+stratified epithelial cell
+stratified squamous epithelial cell
+transitional epithelial cell
+urothelial cell
+epithelial cell of pancreas
+exocrine cell
+extraembryonic cell
+fat cell
+fibroblast
+perijunctional fibroblast
+regeneration fibroblast
+reticular cell
+germ line cell
+hatching gland cell
+keratin accumulating cell
+keratinocyte
+ligament cell
+Merkel cell
+mesangial cell
+mesenchymal cell
+angioblastic mesenchymal cell
+nephrogenic mesenchyme stem cell
+mesenchyme condensation cell
+osteoprogenitor cell
+motile cell
+phagocyte
+myelin accumulating cell
+neurectodermal cell
+neuronal stem cell
+neuroblast
+neuroblast (sensu Vertebrata)
+neuroepithelial cell
+neuron neural crest derived
+neuroplacodal cell
+nucleate erythrocyte
+olfactory epithelial support cell
+osteoblast
+osteocyte
+oxygen accumulating cell
+paracrine cell
+parafollicular cell
+pericyte
+pigment cell
+cyanophore
+erythrophore
+iridophore
+gold iridophore
+silver iridophore
+leucophore
+melanocyte
+pigment cell (sensu Vertebrata)
+non-visual cell (sensu Vertebrata)
+xanthophore
+seminal fluid secreting cell
+somatic stem cell
+multi fate stem cell
+blastemal cell
+metanephric mesenchyme stem cell
+single fate stem cell
+totipotent stem cell
+sperm
+stratified epithelial stem cell
+stratified keratinized epithelial stem cell
+stromal cell
+extracellular matrix secreting cell
+collagen secreting cell
+chondrocyte
+columnar chondrocyte
+hypertrophic chondrocyte
+periarticular chondrocyte
+GAG secreting cell
+ito cell
+leptomeningeal cell
+sustentacular cell
+tendon cell
+compound organ
+cavitated compound organ
+solid compound organ
+multi-tissue structure
+blood vessel
+hypobranchial vessel
+brainstem
+compound organ component
+dental organ
+dental mesenchyme
+dental papilla
+inner dental epithelium
+outer dental epithelium
+dermis
+dermal deep region
+dermal superficial region
+scale
+circulus
+lateral line scale
+nevus
+duct
+perilymphatic duct
+otic duct
+nasal capsule
+pharyngeal arch
+pharyngeal arch 1
+pharyngeal arch 2
+prootic bulla
+serous membrane
+parietal peritoneum
+peritoneum
+mesentery
+dorsal mesentery
+ventral mesentery
+visceral peritoneum
+simple organ
+organism subdivision
+head
+barbel
+anterior nasal barbel
+inner mental barbel
+maxillary barbel
+mental barbel
+post-vent region
+anal fin
+caudal fin
+caudal fin lower lobe
+caudal fin upper lobe
+snout
+surface structure
+caudal peduncle
+fin
+dorsal fin
+pectoral fin
+pectoral fin fold
+pelvic fin
+regenerating fin
+blastema
+epithelial mesenchymal boundary
+regeneration epithelium
+apical epidermal cap
+basal regeneration epithelium
+distal epidermal cap
+integument
+epidermis
+epidermal basal stratum
+epidermal intermediate stratum
+epidermal superficial stratum
+hypodermis
+skin flap
+melanophore stripe
+opercular flap
+vent
+trunk
+portion of tissue
+actinotrichium
+anal fin actinotrichium
+caudal fin actinotrichium
+pectoral fin actinotrichium
+pelvic fin actinotrichium
+adipose tissue
+epithelium
+atypical epithelium
+dental epithelium
+primary dental epithelium
+dermomyotome
+multilaminar epithelium
+unilaminar epithelium
+simple columnar epithelium
+simple cuboidal epithelium
+simple squamous epithelium
+mesenchyme
+head mesenchyme
+branchial mesenchyme
+intramembranous bone
+dermal bone
+angular bone
+bony plate
+lepidotrichium
+sensory canal tubular ossicle
+membrane bone
+nerve
+pectoral fin nerve
+pectoral fin motor nerve
+pectoral fin sensory nerve
+portion of connective tissue
+bone element
+replacement bone
+chondral bone
+endochondral bone
+radial
+anal fin radial
+dorsal fin radial
+perichondral bone
+perichordal bone
+notochordal ossification
+bony projection
+cartilage element
+ligament
+interopercular-mandibular ligament
+lateral ethmoid-autopalatine ligament
+lateral ethmoid-ectopterygoid ligament
+premaxillary-maxillary ligament
+primordial ligament
+perichondrium
+perichordal connective tissue
+skeletal element
+regenerating tissue
+whole organism
+female organism
+male organism
+antorbital
+obsolete_auditory hair cell
+axial bone
+axial fin bone
+basisphenoid
+brachium conjunctivum
+cardiac muscle myoblast
+chondrocranium bone
+cranial bone
+cranial motoneurons
+dermatocranium bone
+dermopalatine
+duodenum
+epicentrals
+fin bone
+glioblast (sensu Vertebrata)
+hypural arches
+infraorbital bridge
+last preural centrum
+medial pterygiophores anal fin
+medial pterygiophores dorsal fin
+mentomeckelian
+opercular-branchiostegal series
+paired fin bone
+pharyngeal arch bone
+pharyngobranchial 1
+pharyngobranchial 2+3
+pons
+portion of organism substance
+cerebral spinal fluid
+perilymph
+scleral cell
+skeletal muscle myoblast
+fast muscle myoblast
+skeletal muscle satellite cell
+slow muscle myoblast
+smooth muscle myoblast
+stomach
+supramaxillae
+supraorbital series
+ural ossification
+anatomical set
+presumptive cardinal organ
+presumptive organ
+presumptive organ system
+visceral organ
+MiP motor neuron
+RoP motor neuron
+adult

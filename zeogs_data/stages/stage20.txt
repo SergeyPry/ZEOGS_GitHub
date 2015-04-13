@@ -1,0 +1,72 @@
+anatomical line
+groove
+anatomical space
+anatomical structure
+acellular anatomical structure
+cell
+ectodermal cell
+endodermal cell
+mesodermal cell
+muscle precursor cell
+yolk
+YSL
+E-YSL
+I-YSL
+embryonic structure
+blastoderm
+blastoderm cell
+Brachet's cleft
+DEL
+epiblast
+EVL
+forerunner cell group
+germ ring
+hypoblast
+axial hypoblast
+anterior axial hypoblast
+axial mesoderm
+axial chorda mesoderm
+prechordal plate
+dorsal axial hypoblast
+margin
+presumptive brain
+presumptive cephalic mesoderm
+presumptive floor plate
+presumptive forebrain
+presumptive forebrain midbrain boundary
+presumptive hindbrain
+presumptive midbrain
+presumptive midbrain hindbrain boundary
+presumptive segmental plate
+presumptive spinal cord
+presumptive structure
+presumptive blood
+presumptive hypochord
+presumptive mesoderm
+mesoderm
+ventral mesoderm
+presumptive paraxial mesoderm
+presumptive neural plate
+anterior presumptive neural plate
+neural plate
+posterior presumptive neural plate
+extraembryonic structure
+chorion
+organism subdivision
+axis
+portion of tissue
+neuroectoderm
+non neural ectoderm
+preplacodal ectoderm
+primary germ layer
+ectoderm
+endoderm
+whole organism
+female organism
+embryo
+anatomical set
+anatomical cluster
+reproductive system
+presumptive cardinal organ
+presumptive organ
+presumptive organ system

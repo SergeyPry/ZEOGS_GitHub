@@ -1,0 +1,719 @@
+adenohypophyseal placode
+adenohypophysis
+somatotropin secreting cell
+thyroid stimulating hormone secreting cell
+anatomical line
+groove
+optic furrow
+anatomical space
+choroidal fissure
+olfactory pit
+semicircular canal
+anterior semicircular canal
+anterior crista primordium
+dorsolateral septum
+lateral semicircular canal
+lateral crista primordium
+posterior semicircular canal
+posterior crista primordium
+anatomical structure
+acellular anatomical structure
+Bowman's layer
+collagenous dermal stroma
+myoseptum
+horizontal myoseptum
+vertical myoseptum
+tooth cusp
+cell
+cementocyte
+digestive enzyme secreting cell
+endocrine cell
+folliculostellate cell
+pinealocyte
+endodermal cell
+gut endothelial cell
+glial cell
+mucus secreting cell
+neuromast mantle cell
+neuromast support cell
+pigment cell
+iridophore
+gold iridophore
+silver iridophore
+melanocyte
+xanthophore
+Rohon-Beard neuron
+yolk
+ball
+extension
+YSL
+embryonic structure
+hatching gland
+pancreatic bud
+anterior pancreatic bud
+exocrine pancreas
+pancreatic duct
+pancreas
+endocrine pancreas
+organism subdivision
+head
+cranium
+chondrocranium
+dermatocranium
+splanchnocranium
+pharyngeal arch 3-7 skeleton
+ceratobranchial bone
+ceratobranchial 5 bone
+ceratobranchial 5 tooth
+tooth 4V
+ceratobranchial cartilage
+ceratobranchial 1 cartilage
+ceratobranchial 2 cartilage
+ceratobranchial 3 cartilage
+ceratobranchial 4 cartilage
+ceratobranchial 5 cartilage
+copula
+copula 1
+eye
+cornea
+corneal endothelium
+corneal epithelium
+corneal stroma
+Descemet's membrane
+lens
+retina
+ciliary marginal zone
+retinal neural layer
+optic fiber layer
+retinal ganglion cell layer
+retinal inner nuclear layer
+retinal photoreceptor layer
+retinal pigmented epithelium
+visual pigment cell (sensu Vertebrata)
+naris
+anterior naris
+posterior naris
+pharyngeal arch
+pharyngeal arch 1
+pharyngeal arch 2
+aortic arch 2
+pharyngeal arch 3-7
+pharyngeal arch 3
+aortic arch 3
+pharyngeal arch 4
+aortic arch 4
+pharyngeal arch 5
+aortic arch 5
+pharyngeal arch 6
+aortic arch 6
+pharyngeal arch 7
+neuromere
+post-vent region
+caudal fin
+surface structure
+fin
+pectoral fin
+mesenchyme pectoral fin
+pectoral fin fold
+pectoral fin musculature
+pectoral fin skeleton
+pectoral fin cartilage
+pectoral girdle
+cleithrum
+pectoral fin vasculature
+pelvic fin
+apical ectodermal ridge pelvic fin
+mesenchyme pelvic fin
+integument
+dermis
+epidermis
+epidermal basal stratum
+epidermal superficial stratum
+median fin fold
+apical ectodermal ridge median fin fold
+dorsal fin fold
+dorsal actinotrichium
+fin fold actinotrichium
+ventral actinotrichium
+mesenchyme median fin fold
+ventral fin fold
+proctodeum
+vent
+trunk
+somite
+myotome
+epaxial myotome region
+epaxial region somite 1
+epaxial region somite 2
+epaxial region somite 3
+epaxial region somite 4
+epaxial region somite 5
+epaxial region somite 6
+epaxial region somite 7
+epaxial region somite 8
+epaxial region somite 9
+epaxial region somite 10
+epaxial region somite 11
+epaxial region somite 12
+epaxial region somite 13
+epaxial region somite 14
+epaxial region somite 15
+epaxial region somite 16
+epaxial region somite 17
+epaxial region somite 18
+epaxial region somite 19
+epaxial region somite 20
+epaxial region somite 21
+epaxial region somite 22
+epaxial region somite 23
+epaxial region somite 24
+epaxial region somite 25
+epaxial region somite 26
+epaxial region somite 27
+epaxial region somite 28
+epaxial region somite 29
+epaxial region somite 30
+fast muscle cell
+fast muscle cell somite 1
+fast muscle cell somite 2
+fast muscle cell somite 3
+fast muscle cell somite 4
+fast muscle cell somite 5
+fast muscle cell somite 6
+fast muscle cell somite 7
+fast muscle cell somite 8
+fast muscle cell somite 9
+fast muscle cell somite 10
+fast muscle cell somite 11
+fast muscle cell somite 12
+fast muscle cell somite 13
+fast muscle cell somite 14
+fast muscle cell somite 15
+fast muscle cell somite 16
+fast muscle cell somite 17
+fast muscle cell somite 18
+fast muscle cell somite 19
+fast muscle cell somite 20
+fast muscle cell somite 21
+fast muscle cell somite 22
+fast muscle cell somite 23
+fast muscle cell somite 24
+fast muscle cell somite 25
+fast muscle cell somite 26
+fast muscle cell somite 27
+fast muscle cell somite 28
+fast muscle cell somite 29
+fast muscle cell somite 30
+hypaxial myotome region
+hypaxial region somite 1
+hypaxial region somite 2
+hypaxial region somite 3
+hypaxial region somite 4
+hypaxial region somite 5
+hypaxial region somite 6
+hypaxial region somite 7
+hypaxial region somite 8
+hypaxial region somite 9
+hypaxial region somite 10
+hypaxial region somite 11
+hypaxial region somite 12
+hypaxial region somite 13
+hypaxial region somite 14
+hypaxial region somite 15
+hypaxial region somite 16
+hypaxial region somite 17
+hypaxial region somite 18
+hypaxial region somite 19
+hypaxial region somite 20
+hypaxial region somite 21
+hypaxial region somite 22
+hypaxial region somite 23
+hypaxial region somite 24
+hypaxial region somite 25
+hypaxial region somite 26
+hypaxial region somite 27
+hypaxial region somite 28
+hypaxial region somite 29
+hypaxial region somite 30
+myotome somite 1
+slow muscle cell somite 1
+muscle pioneer somite 1
+myotome somite 2
+slow muscle cell somite 2
+muscle pioneer somite 2
+myotome somite 3
+slow muscle cell somite 3
+muscle pioneer somite 3
+myotome somite 4
+slow muscle cell somite 4
+muscle pioneer somite 4
+myotome somite 5
+slow muscle cell somite 5
+muscle pioneer somite 5
+myotome somite 6
+slow muscle cell somite 6
+muscle pioneer somite 6
+myotome somite 7
+slow muscle cell somite 7
+muscle pioneer somite 7
+myotome somite 8
+slow muscle cell somite 8
+muscle pioneer somite 8
+myotome somite 9
+slow muscle cell somite 9
+muscle pioneer somite 9
+myotome somite 10
+slow muscle cell somite 10
+muscle pioneer somite 10
+myotome somite 11
+slow muscle cell somite 11
+muscle pioneer somite 11
+myotome somite 12
+slow muscle cell somite 12
+muscle pioneer somite 12
+myotome somite 13
+slow muscle cell somite 13
+muscle pioneer somite 13
+myotome somite 14
+slow muscle cell somite 14
+muscle pioneer somite 14
+myotome somite 15
+slow muscle cell somite 15
+muscle pioneer somite 15
+myotome somite 16
+slow muscle cell somite 16
+muscle pioneer somite 16
+myotome somite 17
+slow muscle cell somite 17
+muscle pioneer somite 17
+myotome somite 18
+slow muscle cell somite 18
+muscle pioneer somite 18
+myotome somite 19
+slow muscle cell somite 19
+muscle pioneer somite 19
+myotome somite 20
+slow muscle cell somite 20
+muscle pioneer somite 20
+myotome somite 21
+slow muscle cell somite 21
+muscle pioneer somite 21
+myotome somite 22
+slow muscle cell somite 22
+muscle pioneer somite 22
+myotome somite 23
+slow muscle cell somite 23
+muscle pioneer somite 23
+myotome somite 24
+slow muscle cell somite 24
+muscle pioneer somite 24
+myotome somite 25
+slow muscle cell somite 25
+muscle pioneer somite 25
+myotome somite 26
+slow muscle cell somite 26
+muscle pioneer somite 26
+myotome somite 27
+slow muscle cell somite 27
+muscle pioneer somite 27
+myotome somite 28
+slow muscle cell somite 28
+muscle pioneer somite 28
+myotome somite 29
+slow muscle cell somite 29
+muscle pioneer somite 29
+myotome somite 30
+slow muscle cell somite 30
+muscle pioneer somite 30
+slow muscle cell
+muscle pioneer
+sclerotome
+sclerotome somite 1
+sclerotome somite 2
+sclerotome somite 3
+sclerotome somite 4
+sclerotome somite 5
+sclerotome somite 6
+sclerotome somite 7
+sclerotome somite 8
+sclerotome somite 9
+sclerotome somite 10
+sclerotome somite 11
+sclerotome somite 12
+sclerotome somite 13
+sclerotome somite 14
+sclerotome somite 15
+sclerotome somite 16
+sclerotome somite 17
+sclerotome somite 18
+sclerotome somite 19
+sclerotome somite 20
+sclerotome somite 21
+sclerotome somite 22
+sclerotome somite 23
+sclerotome somite 24
+sclerotome somite 25
+sclerotome somite 26
+sclerotome somite 27
+sclerotome somite 28
+sclerotome somite 29
+sclerotome somite 30
+somite 1
+somite 2
+somite 3
+somite 4
+somite 5
+somite 6
+somite 7
+somite 8
+somite 9
+somite 10
+somite 11
+somite 12
+somite 13
+somite 14
+somite 15
+somite 16
+somite 17
+somite 18
+somite 19
+somite 20
+somite 21
+somite 22
+somite 23
+somite 24
+somite 25
+somite 26
+somite 27
+somite 28
+somite 29
+somite 30
+portion of tissue
+actinotrichium
+anterior swim bladder bud
+atrioventricular ring
+corpuscles of Stannius
+endocardial cushion
+endocardial ring
+ganglion
+cranial ganglion
+lateral line ganglion
+anterior lateral line ganglion
+dorsal anterior lateral line ganglion
+ventral anterior lateral line ganglion
+posterior lateral line ganglion
+statoacoustic (VIII) ganglion
+trigeminal ganglion
+trunk ganglion
+dorsal root ganglion
+hypochord
+lateral floor plate
+lateral line
+anterior lateral line
+anterior lateral line neuromast
+dorsal lateral line
+dorsal lateral line neuromast
+infraorbital lateral line
+mandibular lateral line
+middle lateral line
+otic lateral line
+posterior lateral line
+posterior lateral line neuromast
+supraorbital lateral line
+macula
+medial floor plate
+mesenchyme
+head mesenchyme
+mesenchyme derived from head mesoderm
+mesenchyme dorsal fin
+trunk mesenchyme
+intermediate mesenchyme
+lateral mesenchyme derived from mesoderm
+mesenchyme derived from trunk neural crest
+lateral migration pathway mesenchyme
+medial migration pathway mesenchyme
+paraxial mesoderm
+ventral mesenchyme
+neuroectoderm
+primary neuron
+notochord
+notochord posterior region
+otic vesicle protrusion
+otic vesicle anterior protrusion
+otic vesicle lateral protrusion
+otic vesicle posterior protrusion
+otic vesicle ventral protrusion
+primary germ layer
+ectoderm
+endoderm
+gut
+enteric nervous system
+esophagus
+pneumatic duct
+gut absorptive cell
+intestine
+intestinal bulb
+mid intestine
+posterior intestine
+mesoderm
+roof plate diencephalic region
+roof plate rhombomere 1
+roof plate rhombomere 2
+roof plate rhombomere 3
+roof plate rhombomere 4
+roof plate rhombomere 5
+roof plate rhombomere 6
+roof plate rhombomere 7
+roof plate rhombomere 8
+roof plate rhombomere region
+roof plate spinal cord region
+tela chorioidea
+tela chorioidea fourth ventricle
+tela chorioidea tectal ventricle
+tela chorioidea telencephalic ventricle
+tela chorioidea third ventricle
+ventral wall of dorsal aorta
+whole organism
+female organism
+anatomical set
+anatomical cluster
+inner ear
+otolith organ
+otolith
+lapillus
+sagitta
+neuromast
+oral region
+oral epithelium
+ventricular zone
+ventral mandibular arch
+Meckel's cartilage
+reproductive system
+presumptive cardinal organ
+presumptive organ
+presumptive organ system
+nervous system
+central nervous system
+brain
+forebrain
+diencephalon
+diencephalic white matter
+cranial nerve II
+optic chiasm
+optic tract
+postoptic commissure
+tract of the postoptic commissure
+epithalamus
+habenula
+pineal complex
+epiphysis
+parapineal organ
+floor plate diencephalic region
+hypophysis
+melanocyte stimulating hormone secreting cell
+hypothalamus
+lateral wall diencephalic region
+optic stalk
+telencephalon
+floor plate telencephalic region
+lateral wall telencephalic region
+olfactory bulb
+optic recess
+telencephalic white matter
+anterior commissure
+telencephalon diencephalon boundary
+forebrain midbrain boundary
+hindbrain
+cerebellum
+floor plate rhombomere region
+floor plate rhombomere 1
+floor plate rhombomere 2
+floor plate rhombomere 3
+floor plate rhombomere 4
+floor plate rhombomere 5
+floor plate rhombomere 6
+floor plate rhombomere 7
+floor plate rhombomere 8
+fourth ventricle
+hindbrain commissure
+midbrain
+lateral wall midbrain region
+optic tectum
+tectal ventricle
+tegmentum
+midbrain hindbrain boundary
+supraoptic tract
+lateral forebrain bundle
+floor plate
+floor plate spinal cord region
+peripheral motor axons
+roof plate
+spinal cord
+central canal
+ventricular system
+neuron
+peripheral nervous system
+lateral line system
+anterior lateral line system
+lateral line primordium
+posterior lateral line primordium
+posterior lateral line system
+myelinating Schwann cell
+sensory system
+olfactory system
+olfactory receptor cell
+peripheral olfactory organ
+olfactory epithelium
+sensory neuron
+sensory axons peripheral
+vestibuloauditory system
+visual system
+Kolmer-Agduhr neuron
+hematopoietic system
+blood
+blood cell
+hematopoietic stem cell
+common lymphoid progenitor
+musculature system
+cephalic musculature
+fin musculature
+dorsal fin musculature
+trunk musculature
+abdominal musculature
+cardiovascular system
+heart
+atrium
+bulbus arteriosus
+cardiac ventricle
+sinus venosus
+pericardium
+vasculature
+axial vasculature
+blood vasculature
+artery
+anterior mesenteric artery
+aortic arch
+carotid artery
+caudal artery
+cranial division of the internal carotid artery
+dorsal aorta
+hyaloid artery
+intersegmental artery
+opercular artery
+optic artery
+pectoral artery
+posterior communicating artery
+posterior mesenteric artery
+swim bladder artery
+cardinal system
+anterior cardinal vein
+common cardinal vein
+posterior cardinal vein
+vein
+anterior cerebral vein
+caudal vein
+hyaloid vein
+intersegmental vein
+median axial vein
+optic vein
+palatocerebral vein
+pectoral vein
+posterior caudal vein
+primordial hindbrain channel
+subintestinal vein
+cranial vasculature
+brain vasculature
+trunk vasculature
+muscle cell
+skeletal muscle cell
+digestive system
+D cell
+digestive system duct
+hepatic duct
+gall bladder
+liver
+left liver lobe
+pancreatic system
+pharynx
+pharyngeal epithelium
+endocrine system
+thyroid follicle
+ultimobranchial body
+immune system
+kidney
+interrenal primordium
+macrophage
+thymus primordium
+lateral wall rhombomere 1
+lateral wall rhombomere 2
+lateral wall rhombomere 3
+lateral wall rhombomere 4
+lateral wall rhombomere 5
+lateral wall rhombomere 6
+lateral wall rhombomere 7
+lateral wall rhombomere 8
+nucleus of the tract of the postoptic commissure
+renal system
+podocyte
+pronephric podocyte
+pronephros
+pronephric duct
+pronephric duct opening
+pronephric glomerulus
+pronephric tubule
+skeletal system
+visceral organ
+CiA
+CiD
+CoLA
+CoPA
+CoSA
+DoLA
+MCoD
+MiP motor neuron
+RoP motor neuron
+UCoD
+VeLD
+pharyngeal pouch 1
+immature macula
+immature anterior macula
+immature hair cell anterior macula
+hair cell anterior macula
+immature posterior macula
+immature hair cell posterior macula
+hair cell posterior macula
+secondary motor neuron
+serous membrane
+caudal vein plexus
+liver and biliary system
+ocular blood vessel
+hyaloid vessel
+terminal nerve
+zona limitans intrathalamica
+apical ectodermal ridge dorsal fin
+basophilic erythroblast
+dorsolateral motor nucleus of vagal nerve
+larval melanophore stripe
+dorsal larval melanophore stripe
+lateral larval melanophore stripe
+ventral larval melanophore stripe
+axial fin skeleton
+trabecula cranii
+ceratohyal cartilage
+ethmoid cartilage
+hyohyoideus
+hyosymplectic cartilage
+sternohyoid
+larva
+medial motor nucleus of vagal nerve
+palatoquadrate cartilage
+interhyoideus
+ventral tooth row
+adductor operculi
+adductor hyomandibulae
+interhyal cartilage
+pectoral fin motor nerve 1
+pectoral fin motor nerve 2
+pectoral fin motor nerve 3
+pectoral fin motor nerve 4
+swim bladder

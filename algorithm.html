@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>ZEOGS: Zebrafish Expression Ontology</title>
+<link rel="stylesheet" type="text/css" href="view.css" media="all">
+<script type="text/javascript" src="view.js"></script>
+
+</head>
+<body id="main_body" >
+	
+	<div id="form_container">
+	<img id="top" src="ZEOGS_banner.png" alt="">
+	
+	<table summary="Header table for links to different website pages" class="links">
+	<thead class="links"><tr>
+	<th scope="col" class="links"><a href="http://zeogs.x10.bz/index.html">ZEOGS form</a></th>
+	<th scope="col" class="links"><a href="http://zeogs.x10.bz/algorithm.html">Algorithm</a></th>
+	<th scope="col" class="links"><a href="http://zeogs.x10.bz/help.html">Help</a></th>
+	<th scope="col" class="links"><a href="http://zeogs.x10.bz/tutorial.html">Tutorial</a></th>
+	<th scope="col" class="links"><a href="http://zeogs.x10.bz/links.html">Links</a></th>
+	<th scope="col" class="links"><a href="http://zeogs.x10.bz/data.html">Data</a></th>
+	<th scope="col" class="links"><a href="http://zeogs.x10.bz/contact.html">Contact</a></th>
+	</tr>
+	</thead>
+	</table>
+
+	
+    <h1 align="left">Algorithm description of ZEOGS</h1>
+	
+	<p>Zebrafish Expression Ontology of Gene Sets implements a Perl-based workflow to obtain a summary of known gene expression patterns of a 
+     gene set. The image below gives you a graphical overview of the ZEOGS algorithm. Details of the input options are described on the <a href="http://zeogs.x10.bz/help.html">Help</a> page. Here we will look at the steps involved in obtaining output results from the input data and options.</p>
+
+	<h2>Input</h2>
+	<p> The user initially selects which dataset will be used by the program (<b>"Data source"</b>), inputs a list of gene identifiers (<b>"Gene ID sample"</b>). To give the results a temporal context, the user also has to select a stage (<b>"Stage of development"</b>), which will be used to filter anatomical terms known for genes in the list. In addition, anatomical terms will then be tested for over-representation using the hyper-geometric test with Benjamini-Hochberg multiple testing correction and the user can then choose how to sort them (<b>"Sorting option"</b>). Finally, since in many experiments it is not possible to test really all known genes, the user can directly enter a list of genes which were tested (<b>"Tested genes option"</b>) and from which the sample of gene identifiers was obtained.</p>
+	
+	<h2>Processing and output</h2>
+	<p>The input gene identifiers are first converted ZFIN IDs, which will be used to query expression data sets. Then the program obtains anatomical terms for the input gene identifiers and either for all known zebrafish genes or for genes input in the "Tested genes" option. During this process, anatomical terms are filtered based on whether they are known or were observed at the selected stage of development. In the next step the gene lists and gene counts for each encountered anatomical term are generated. Further down the workflow, the over-representation of each anatomical term is checked with the hypergeometric statistical test on the gene counts for the sample and total gene lists. Finally, all of these data is output in the form of gene identifier tables for each anatomical term and anatomical term tables of gene counts.</p>
+		
+	<p align=center><img src="http://zeogs.x10.bz/images/ZEOGS_workflow_diagram.png"; width=60%; alt=""; style="margin-bottom: 20px"></p>
+	
+	<h2>The data source and anatomical term filtering choice</h2>
+	
+	<p>The data source option "anatomical terms on ZFIN gene pages + stage filter" is based on the anatomical terms listed on ZFIN gene summary pages. To limit the anatomical terms only to those known for each stage, a simple stage filter was implemented. Each anatomical term is checked against a list of anatomical terms known for the selected stage and if present is added to the results table. The following diagram illustrates this simple prediction approach.</p>
+	
+	<p align=center><img src="http://zeogs.x10.bz/images/Stage_selection-A.png"; width=70%; alt=""; style="margin-bottom: 20px"></p>
+	
+	<p>Another data source option "Wild-type expression: manually annotated data for some stages" is a more rigourous option for mining expression data in zebrafish. This option is based on the <a href="http://zfin.org/data_transfer/Downloads/wildtype-expression.txt">wild-type expression file</a> on ZFIN, from which anatomical terms were extracted and categorized by stage information available in the file. Since this file is based on direct empirical observations, the user receives directly validated information. The disadvantage is that with this option there is very little information on early and late developmental stages.  The following diagram illustrates this empirical data source option.</p>
+	<p align=center><img src="http://zeogs.x10.bz/images/Stage_selection-B.png"; width=70%; alt=""; style="margin-bottom: 20px"></p>
+	<br />
+	<br />
+		<br />
+		<br />
+		<br />
+		
+		<p id="footer"> Copyright notice: ZEOGS website has been developed by Sergey Prykhozhij at Max-Planck Institute for molecular genetics, Berlin, Germany, and at IWK Health Centre and Dalhousie University in 2012. The last update of the data sets used was in April 2015.</p>
+	</div>
+	
+	<img id="bottom" src="bottom.png" alt="">
+</body>
+</html>

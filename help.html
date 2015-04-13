@@ -1,0 +1,119 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>ZEOGS: Zebrafish Expression Ontology</title>
+<link rel="stylesheet" type="text/css" href="http://zeogs.x10.bz/view.css" media="all">
+<script type="text/javascript" src="http://zeogs.x10.bz/view.js"></script>
+
+</head>
+<body id="main_body" >
+	
+	<img id="top" src="ZEOGS_banner.png" alt="">
+		
+	<div id="form_container">
+	
+	<table summary="Header table for links to different website pages" class="links">
+	<thead class="links"><tr>
+	<th scope="col" class="links"><a href="http://zeogs.x10.bz/index.html">ZEOGS form</a></th>
+	<th scope="col" class="links"><a href="http://zeogs.x10.bz/algorithm.html">Algorithm</a></th>
+	<th scope="col" class="links"><a href="http://zeogs.x10.bz/help.html">Help</a></th>
+	<th scope="col" class="links"><a href="http://zeogs.x10.bz/tutorial.html">Tutorial</a></th>
+	<th scope="col" class="links"><a href="http://zeogs.x10.bz/links.html">Links</a></th>
+	<th scope="col" class="links"><a href="http://zeogs.x10.bz/data.html">Data</a></th>
+	<th scope="col" class="links"><a href="http://zeogs.x10.bz/contact.html">Contact</a></th>
+	</tr>
+	</thead>
+	</table>
+
+	<h1>Help section of ZEOGS</h1>
+	<h2><a href="#section1">1.	The concept of ZEOGS software.</a></h2>
+	<h2><a href="#section2">2.	Options for data entry and output.</a></h2>
+	<h2><a href="#section3">3.	The structure of ZEOGS output.</a></h2>
+	<br />
+	<br />
+	<h2 id="section1">1.	The concept of ZEOGS software.</h2>
+	<p>Zebrafish has become a well-established model system for understanding developmental mechanisms, fundamental biological processes and a variety of biomedically relevant studies. Moreover, functional genomics has a firm hold on research in this model system leading to generation of a large number of high-throughput datasets each providing information on hundreds to tens of thousands genes, proteins or other molecular entities. Since it is impractical and almost impossible to keep in human memory information on such a high number of molecular entitities, we need tools which aggregate information about them and provide an overview for an overall understanding of what the data mean from a functional and expression pattern perspectives. Gene Ontology, Gene Set Enrichment Analysis, KEGG pathway and Ingenuity pathway analysis tools give us a good opportunity to gain deeper insights into functions of gene sets. Moreover, one should not forget that genes are expressed in highly specific spatial patterns and this has important functional consequences. On the other hand, analyzing gene sets from global analyses of zebrafish embryos or larvae may allow inferring in which tissues these genes are preferentially expressed and therefore may be affected by experimental perturbations. ZEOGS is  a tool to summarize expression pattern properties of gene sets in zebrafish and to allow such inferences.</p>
+	
+	<p>The design of many expression profiling and other high-throughput genomic experiments in zebrafish is often based on isolating material from whole embryos or larvae because of either technical limitations or lack of knowledge where potential differentially regulated genes are expressed. Thus, in the case of expression profiling the spatial information on gene expression is lost. After obtaining lists of gene identifiers it is certainly possible and sometimes desirable to manually annotate what is known about expression patterns of differentially-regulated genes using information stored in the Zebrafish Information Network databases. However, such a task is highly time-consuming and despite giving an impression of the range of patterns, tissues and organs does not provide a good summary and any measure of enrichment of anatomical terms encountered in the gene list.</p>
+	
+	<h2 id="section2">2.	Options for data entry and output.</h2>
+	<p><b>1.	Expression data source</b></p>
+	<li>anatomical terms on ZFIN gene summary pages + a stage filter</li>
+	<p>This data source option is based on the anatomical terms listed on ZFIN gene summary pages. To limit the anatomical terms only to those known for each stage, a simple stage filter was implemented. Each anatomical term is checked against a list of anatomical terms known for the selected stage and if present is added to the results table.</p>
+	
+	<li>Wild-type expression: manually annotated data for some stages</li>
+	<p> This data source option  is a more rigourous option for mining expression data in zebrafish. This option is based on the <a href="http://zfin.org/data_transfer/Downloads/wildtype-expression.txt">wild-type expression file</a> on ZFIN, from which anatomical terms were extracted and categorized by stage information available in the file. Since this file is based on direct empirical observations, the user receives directly validated information. The disadvantage is that with this option there is very little information on early and late developmental stages. More specifically, our analysis presented in the figure below showed that the 'wild-type expression' option is most applicable for stages 17-33 (5-60 hours post fertilization). This is because these stages have been most frequently studied. At all other stages of zebrafish development its information content is dramatically lower than that of the 'gene summary' option. </p>
+	
+	<p align=center><img src="http://zeogs.x10.bz/images/Figure3_data_source_options.png"; width=80%; alt=""; style="margin-bottom: 20px"></p>
+	
+	<p><b>2.	Format of gene identifiers</b></p>
+	<li>ZFIN ID</li>
+	<p>"ZFIN ID" is the primary identifier used by the ZFIN database, e.g. ZDB-GENE-000524-1.</p>
+	<li>ZFIN symbol</li>
+	<p>"ZFIN symbol" is a short gene name identifier (e.g sox9b) that is used by different databases, thus being a generally applicable identifier for zebrafish genes.</p>
+	<p>The usage of other identifiers is not optimal for querying ZFIN expression datasets because of the conversion issues between formats from different databases.</p>
+	
+	<p><b>3.	Choice of entry mode for gene identifiers - either as text or as a file</b></p>
+	<p>To provide input to the program, the user can paste the gene identifiers into the text area or upload them as a file.</p>
+	
+	<p><b>4.	Gene identifiers - the primary information for querying expression term data sets</b></p>
+	<p>Please enter gene identifiers in one of the two formats. In case you do not have identifiers in one of these two formats, you should convert from the available format to either ZFIN ID or ZFIN symbol using BioMart or another conversion software</p>
+	<p><b>5.	File with a list of all gene identifiers tested in your experiment</b></p>
+	<p>The results of anatomical term over-representation analysis will likely depend on the genes tested in an experiment. Most high-throughput experiments to date have not been able to test every gene in the zebrafish genome. Therefore, the list of tested genes may be provided so the program can adjust the 'total genes' list and provide a better assessment of actual enrichment of certain anatomical terms. In addition, this possibility of uploading tested genes may be of great use to experiments using custom-designed microarrays. However, this option is not obligatory and by default the program will use information on all known genes with expression information.</p>
+	<p><b>6.	Stage of zebrafish, for which the output will be generated</b></p>
+	<p>This option provides a temporal context for the gene set and should always be selected since otherwise the results may not make much sense. Please be aware that the results using the two data source options may differ a lot due to nature of algorithms used in the program.</p>
+	<p><b>7.	Choice from options for sorting of anatomical terms</b></p>
+	<li>Gene count</li>
+	<li>Uncorrected P-value sorted in an ascending order</li>
+	<p>This option sorts the anatomical terms in the results table according to their values, the smaller values being higher in the table.</p>
+	<li>Fraction of total genes with a specific term</li>
+	<p>Using this option, the user can sort anatomical terms according to the ratio of gene count for an anatomical term in the sample to its total count</p>
+	
+	<p><b>Testing for over-representation of anatomical terms using the hypergeometric test with multiple testing correction</b></p>
+	<p>This combinatorial test assumes random sampling of genes and anatomical terms and gives the probability of obtaining the same or a higher gene count for a certain anatomical term. The following formula is used for this purpose</p>. 
+	
+	<p align=left><img src="http://zeogs.x10.bz/images/Formula.jpg"; width=25%; alt=""; style="margin-bottom: 20px"></p>
+
+<p>N – the total number of genes with associated anatomical terms<br />
+n – the number of genes with a specific anatomical term<br />
+m – the number of selected genes<br />
+k – the number of selected genes with the specific anatomical term<br />
+x – a variable for P-value calculation</p>
+
+	
+
+<p>ZEOGS additionally adjusts the P-values for multiple corrections, which makes P-values larger and therefore reduces their apparent significance. The mathematics for the correction can be found in the original <a href="http://www.math.tau.ac.il/~ybenja/MyPapers/benjamini_hochberg1995.pdf">Benjamini&Hochberg, 1995</a> paper.</p>
+
+	<br />
+	<h2 id="section3">3.	The structure of ZEOGS output.</h2>
+	
+	<p><b>Files generated by the program</b></p>
+	<p>ZEOGS generates three files from the input gene identifier list. All of these files will be stored in a newly generated random folder, which will be deleted after 24 hours, so the links to the files can be used for access to the results for one day. The file links are illustrated in the figure below.</p> 
+	<p><strong>File 1</strong> contains a table of ranked terms identical to the one on the HTML version of the output page and sorted in the same order.</p>
+	<p><strong>File 2</strong> contains tables of gene identifiers for each of the anatomical terms encountered for the input gene identifiers. This file can be useful for some downstream analyses focusing on genes in the specific anatomical terms.</p>
+	<p><strong>File 3</strong> contains a table of gene identifiers which did not have any anatomical terms associated with them in the current data sets. Thus, if your aim is to quickly filter the genes with unknown expression patterns and then do some experiments on them, you can use the list for this purpose.</p>
+	
+	<p align=center><img src="http://zeogs.x10.bz/images/Files.jpg"; width=80%; alt=""; style="margin-bottom: 20px"></p>
+	
+	
+	
+	<p><b>Ranking table of the anatomical terms and summary statistics</b></p>
+	<p>This table is the central piece of ZEOGS output. Each anatomical term in the table is hyper-linked to its page on the ZFIN for additional explanation and hierarchy relationship information. Additionally, there is information on the number of genes with the anatomical term in the sample and for all of the genes with expression information. The next columns contain the P-values calculated using the hyper-geometric test, the Benjamini-Hochberg corrected P-value and the conclusion whether the corrected P-value is below the 0.1 threshold. In addition, table rows are colour coded, orange being the colour for anatomical terms with corrected P-values < 0.1, green labeling the rows for terms with enrichment P-values < 0.1 and all other terms having a neutral background colour. For an example of the table see the following figure.</p>
+	
+	<p align=center><img src="http://zeogs.x10.bz/images/Table.jpg"; width=80%; alt=""; style="margin-bottom: 20px"></p>
+	
+	<p>The output page of ZEOGS concludes with the summary of the number of genes having anatomical terms in the sample and for all genes as well as the number of anatomical terms encountered for gene identifiers in the sample and for all genes. An example of this summary is shown below.</p>
+	
+	<p align=center><img src="http://zeogs.x10.bz/images/summary.jpg"; width=50%; alt=""; style="margin-bottom: 20px"></p>
+	
+	
+	<br />
+	<br />
+	<br />
+		
+		<p id="footer"> Copyright notice: ZEOGS website has been developed by Sergey Prykhozhij at Max-Planck Institute for molecular genetics, Berlin, Germany, and at IWK Health Centre and Dalhousie University in 2012. The last update of the data sets used was in April 2015.</p>
+</div>
+<img id="bottom" src="bottom.png" alt="">
+</body>
+</html>

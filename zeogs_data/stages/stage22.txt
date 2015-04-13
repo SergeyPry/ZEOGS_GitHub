@@ -1,0 +1,110 @@
+anatomical line
+groove
+anatomical space
+anatomical structure
+acellular anatomical structure
+cell
+adaxial cell
+endodermal cell
+yolk
+YSL
+E-YSL
+I-YSL
+embryonic structure
+blastoderm
+blastoderm cell
+Brachet's cleft
+DEL
+epiblast
+forerunner cell group
+germ ring
+hypoblast
+axial hypoblast
+anterior axial hypoblast
+axial mesoderm
+axial chorda mesoderm
+notochord
+notochord posterior region
+prechordal plate
+dorsal axial hypoblast
+margin
+neurogenic placode
+dorsolateral placode
+otic placode
+polster
+presumptive cephalic mesoderm
+presumptive floor plate
+presumptive intervening zone
+presumptive rhombomere 3
+presumptive rhombomere 4
+presumptive rhombomere 5
+presumptive rhombomere 6
+presumptive rhombomere 7
+presumptive rhombomere 8
+presumptive segmental plate
+presumptive structure
+presumptive blood
+presumptive hypochord
+tail bud
+trunk
+extraembryonic structure
+chorion
+organism subdivision
+axis
+head
+surface structure
+integument
+portion of tissue
+anterior neural keel
+forebrain midbrain boundary neural keel
+midbrain neural keel
+anterior neural plate
+forebrain midbrain boundary neural plate
+midbrain neural plate
+forebrain neural keel
+forebrain neural plate
+hindbrain neural keel
+presumptive rhombomere 1
+presumptive rhombomere 2
+hindbrain neural plate
+mesenchyme
+trunk mesenchyme
+paraxial mesoderm
+segmental plate
+neural keel
+midbrain hindbrain boundary neural keel
+posterior neural keel
+spinal cord neural keel
+neural plate
+midbrain hindbrain boundary neural plate
+posterior neural plate
+spinal cord neural plate
+neuroectoderm
+non neural ectoderm
+preplacodal ectoderm
+neurogenic field
+dorsolateral field
+optic primordium
+primary germ layer
+ectoderm
+periderm
+endoderm
+mesoderm
+intermediate mesoderm
+lateral mesoderm
+presumptive pronephric mesoderm
+ventral lateral mesoderm
+ventral mesoderm
+whole organism
+female organism
+embryo
+anatomical set
+anatomical cluster
+reproductive system
+presumptive cardinal organ
+presumptive organ
+presumptive organ system
+nervous system
+central nervous system
+sensory system
+vestibuloauditory system

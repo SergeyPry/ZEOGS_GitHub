@@ -1,0 +1,191 @@
+anatomical line
+groove
+anatomical space
+anatomical structure
+acellular anatomical structure
+myoseptum
+vertical myoseptum
+cell
+adaxial cell
+endodermal cell
+Rohon-Beard neuron
+yolk
+YSL
+E-YSL
+I-YSL
+embryonic structure
+Brachet's cleft
+Kupffer's vesicle
+polster
+presumptive cephalic mesoderm
+presumptive diencephalon
+presumptive intervening zone
+presumptive rhombomere 3
+presumptive rhombomere 4
+presumptive rhombomere 5
+presumptive rhombomere 6
+presumptive rhombomere 7
+presumptive rhombomere 8
+presumptive structure
+presumptive blood
+presumptive hypochord
+presumptive telencephalon
+tail bud
+chordo neural hinge
+trunk
+somite
+myotome
+epaxial myotome region
+epaxial region somite 1
+epaxial region somite 2
+epaxial region somite 3
+epaxial region somite 4
+epaxial region somite 5
+fast muscle cell
+fast muscle cell somite 1
+fast muscle cell somite 2
+fast muscle cell somite 3
+fast muscle cell somite 4
+fast muscle cell somite 5
+hypaxial myotome region
+hypaxial region somite 1
+hypaxial region somite 2
+hypaxial region somite 3
+hypaxial region somite 4
+hypaxial region somite 5
+myotome somite 1
+slow muscle cell somite 1
+muscle pioneer somite 1
+myotome somite 2
+slow muscle cell somite 2
+muscle pioneer somite 2
+myotome somite 3
+slow muscle cell somite 3
+muscle pioneer somite 3
+myotome somite 4
+slow muscle cell somite 4
+muscle pioneer somite 4
+myotome somite 5
+slow muscle cell somite 5
+muscle pioneer somite 5
+slow muscle cell
+muscle pioneer
+sclerotome
+sclerotome somite 1
+sclerotome somite 2
+sclerotome somite 3
+sclerotome somite 4
+sclerotome somite 5
+somite 1
+somite 2
+somite 3
+somite 4
+somite 5
+extraembryonic structure
+chorion
+organism subdivision
+axis
+head
+surface structure
+integument
+portion of tissue
+anterior lateral plate mesoderm
+anterior neural rod
+forebrain midbrain boundary neural rod
+midbrain neural rod
+endocardial precursor
+forebrain neural rod
+ganglion
+cranial ganglion
+heart primordium
+hindbrain neural keel
+presumptive rhombomere 1
+presumptive rhombomere 2
+hindbrain neural plate
+hindbrain neural rod
+lateral floor plate
+lens placode
+medial floor plate
+mesenchyme
+head mesenchyme
+mesenchyme derived from head mesoderm
+mesenchyme derived from head neural crest
+trunk mesenchyme
+intermediate mesenchyme
+lateral mesenchyme derived from mesoderm
+mesenchyme derived from trunk neural crest
+paraxial mesoderm
+segmental plate
+myocardial precursor
+neural crest
+cranial neural crest
+facial neural crest
+facio-acoustic neural crest
+trigeminal neural crest
+neural crest cell
+neural keel
+midbrain hindbrain boundary neural keel
+midbrain hindbrain boundary neural rod
+posterior neural keel
+posterior neural rod
+spinal cord neural rod
+spinal cord neural keel
+neural plate
+midbrain hindbrain boundary neural plate
+posterior neural plate
+spinal cord neural plate
+proneural cluster
+neural rod
+neuroectoderm
+primary neuron
+primary neuron hindbrain
+non neural ectoderm
+notochord
+notochord posterior region
+optic vesicle
+primary germ layer
+ectoderm
+periderm
+endoderm
+mesoderm
+axial mesoderm
+prechordal plate
+intermediate mesoderm
+lateral mesoderm
+lateral plate mesoderm
+posterior lateral plate mesoderm
+pectoral fin field
+pelvic fin field
+pronephric mesoderm
+ventral lateral mesoderm
+ventral mesoderm
+rostral blood island
+whole organism
+female organism
+embryo
+anatomical set
+anatomical cluster
+reproductive system
+presumptive cardinal organ
+presumptive organ
+presumptive organ system
+nervous system
+central nervous system
+floor plate
+neuron
+peripheral nervous system
+sensory system
+vestibuloauditory system
+otic placode
+visual system
+neurogenic field
+Kolmer-Agduhr neuron
+hematopoietic system
+lateral cells
+musculature system
+trunk musculature
+trigeminal placode
+cardiovascular system
+immature eye
+muscle cell
+skeletal muscle cell

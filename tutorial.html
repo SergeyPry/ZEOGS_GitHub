@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>ZEOGS: Zebrafish Expression Ontology</title>
+<link rel="stylesheet" type="text/css" href="view.css" media="all">
+<script type="text/javascript" src="view.js"></script>
+
+</head>
+<body id="main_body" >
+	
+	<img id="top" src="ZEOGS_banner.png" alt="">
+		
+	<div id="form_container">
+	
+	<table summary="Header table for links to different website pages" class="links">
+	<thead class="links"><tr>
+	<th scope="col" class="links"><a href="http://zeogs.x10.bz/index.html">ZEOGS form</a></th>
+	<th scope="col" class="links"><a href="http://zeogs.x10.bz/algorithm.html">Algorithm</a></th>
+	<th scope="col" class="links"><a href="http://zeogs.x10.bz/help.html">Help</a></th>
+	<th scope="col" class="links"><a href="http://zeogs.x10.bz/tutorial.html">Tutorial</a></th>
+	<th scope="col" class="links"><a href="http://zeogs.x10.bz/links.html">Links</a></th>
+	<th scope="col" class="links"><a href="http://zeogs.x10.bz/data.html">Data</a></th>
+	<th scope="col" class="links"><a href="http://zeogs.x10.bz/contact.html">Contact</a></th>
+	</tr>
+	</thead>
+	</table>
+	
+	<h2>Tutorial for using ZEOGS</h2>
+	
+	<h4>1. Getting the data</h4>
+	
+	<p>In this tutorial, we will use a dataset containing a list of genes, whose expression was shown to be dependent on Hedgehog signaling, an important signaling pathway essential for successful development of several organ systems. The data itself comes from the following paper:</p>
+	
+	<p> Xu J, Srinivas BP, Tay SY, Mak A, Yu X, Lee SG, Yang H, Govindarajan KR, Leong B, Bourque G, Mathavan S, Roy S.
+	<br />
+	<a href="http://www.ncbi.nlm.nih.gov/pubmed/16888327">Genomewide expression profiling in the zebrafish embryo identifies target genes regulated by Hedgehog signaling during vertebrate development.</a>
+Genetics. 2006 Oct;174(2):735-52. </p>
+	
+	<p>The genes in the list had their expression down-regulated by cyclopamine, a Hedgehog signaling inhibitor, and up-regulated by over-expression of the dominant-active Protein Kinase A, a potent activator of the Hedgehog signaling. These genes are thus likely target genes of transcription factors downstream in the Hedgehog signaling pathway. <strong>Please download a file with these genes</strong> <a href="http://zeogs.x10.bz/Gene_list_Xu2006.txt">here.</a></p>
+	
+	<h4>2. Analyzing the data</h4>
+	
+	<p>To analyze the gene list you have downloaded above you need to do the following steps</p>
+	<ol>
+	<li><p>1. Open a fresh <a href="http://zeogs.x10.bz/index.html">ZEOGS form</a> page.</p></li>
+	<li><p>2. Copy the genes in the file you have downloaded.</p></li>
+	<li><p>3. Leave the data source option unchanged, for the gene identifier format select <strong>ZFIN symbol</strong>.</p></li>
+	<li><p>4. Paste the previously copied gene symbols into the text input area.</p></li>
+	<li><p>5. For the stage option, select <strong>Pharyngula:Prim-5 - 24-30 hours</strong> because this is the stage when the experiments in the paper were performed.</p></li>
+	<li><p>6. For the sorting option, please select <strong>P-value: ascending order</strong>.</p></li>
+	<li><p>7. Now you are ready to press the <strong>Submit</strong> button and run the analysis.</p></li>
+	</ol>
+	
+	<p>For the discussion of all the options in this program please refer to the <a href="http://zeogs.x10.bz/help.html">Help</a> section</p>
+	
+	<h4>3. Interpreting the data.</h4>
+	<p>Since this gene set was very rigorously selected, there is a large number of shared anatomical terms, which are consequently scored as highly enriched. Some of the most significant anatomical terms resulting from this analysis are shown in this table:</p>
+	<p align=center><img src="http://zeogs.x10.bz/images/Tutorial_result.jpg"; width=80%; alt=""; style="margin-bottom: 20px"></p>
+	
+	<p>Please refer to the <a href="http://zeogs.x10.bz/help.html">Help</a> section for a detailed description of the output from ZEOGS.</p> 
+	<p><strong>You are now ready to do ZEOGS analyses with any desired dataset.</strong></p>
+	
+	<br />
+	<br />
+	<br />
+	
+<p id="footer"> Copyright notice: ZEOGS website has been developed by Sergey Prykhozhij at Max-Planck Institute for molecular genetics, Berlin, Germany, and at IWK Health Centre and Dalhousie University in 2012. The last update of the data sets used was in April 2015.</p>
+	</div>
+	<img id="bottom" src="bottom.png" alt="">
+	</body>
+</html>

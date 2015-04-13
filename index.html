@@ -1,0 +1,182 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>ZEOGS: Zebrafish Expression Ontology</title>
+<link rel="stylesheet" type="text/css" href="view.css" media="all">
+<script type="text/javascript" src="view.js"></script>
+
+</head>
+<body id="main_body" >
+	
+	<img id="top" src="ZEOGS_banner.png" alt="">
+		
+	<div id="form_container">
+	
+	<table summary="Header table for links to different website pages" class="links">
+	<thead class="links"><tr>
+	<th scope="col" class="links"><a href="http://zeogs.x10.bz/index.html">ZEOGS form</a></th>
+	<th scope="col" class="links"><a href="http://zeogs.x10.bz/algorithm.html">Algorithm</a></th>
+	<th scope="col" class="links"><a href="http://zeogs.x10.bz/help.html">Help</a></th>
+	<th scope="col" class="links"><a href="http://zeogs.x10.bz/tutorial.html">Tutorial</a></th>
+	<th scope="col" class="links"><a href="http://zeogs.x10.bz/links.html">Links</a></th>
+	<th scope="col" class="links"><a href="http://zeogs.x10.bz/data.html">Data</a></th>
+	<th scope="col" class="links"><a href="http://zeogs.x10.bz/contact.html">Contact</a></th>
+	</tr>
+	</thead>
+	</table>
+	
+	<h2>Zebrafish Expression Ontology of Gene Sets (ZEOGS) Input Form</h2>
+	
+	<h3>ZEOGS is a tool predicting sites of preferential expression of zebrafish gene sets.</h3> 
+	
+	<p>It allows biologists doing experiments on zebrafish to summarize expression of large gene sets using standardised anatomical terms available from the Zebrafish Information Network. In addition, ZEOGS assesses over-representation of each encountered anatomical term relative to occurrence of these anatomical terms among all of known or tested zebrafish genes with expression.</p>
+
+	<p>ZEOGS requires the following input for obtaining expression ontology information for your genes:</p>
+	
+		<form id="form_362465" class="appnitro" enctype="multipart/form-data" method="post" action="./cgi-bin/zeogs.cgi">
+		<div class="form_description">
+			
+			<ul>
+			<li><label class="description" for="format"><a href="http://zeogs.x10.bz/help.html#section2">1.	Expression data source</a></label></li>
+			<li><label class="description" for="format"><a href="http://zeogs.x10.bz/help.html#section2">2.	Format of gene identifiers</a></label></li>
+			<li><label class="description" for="format"><a href="http://zeogs.x10.bz/help.html#section2">3.	Choice of entry mode for gene identifiers - either as text or as a file</a></label></li>
+			<li><label class="description" for="format"><a href="http://zeogs.x10.bz/help.html#section2">4.	Gene identifiers - the primary information for querying expression term data sets</a></label></li>
+			<li><label class="description" for="format"><a href="http://zeogs.x10.bz/help.html#section2">5.	File with a list of all gene identifiers tested in your experiment</a></label></li>
+			<li><label class="description" for="format"><a href="http://zeogs.x10.bz/help.html#section2">6.	Stage of zebrafish, for which the output will be generated</a></label></li>
+			<li><label class="description" for="format"><a href="http://zeogs.x10.bz/help.html#section2">7.	Choice from options for sorting of anatomical terms</a></label></li>
+			</ul>
+		
+		</div>						
+			<ul >
+		<li id="li_1" >
+		<label class="description" for="format">Expression data source options</label>
+		<div>
+		<select class="element select large" id="data_source" name="data_source"> 
+			
+			<option value="gene_summary">anatomical terms on ZFIN gene summary pages + a stage filter</option>
+			<option value="wt_expression">Wild-type expression: manually annotated data for some stages</option>
+		
+		</select>
+		</div> 
+		</li>
+		
+		<li id="li_2" >
+		<label class="description" for="format">Choose your gene identifier format</label>
+		<div>
+	
+		<p><INPUT TYPE=RADIO id="format" name="format" value="zfin_id">ZFIN ID</p>
+        <p><INPUT TYPE=RADIO id="format" name="format" value="zfin_symbol">ZFIN Symbol</p>
+		
+		
+		</div> 
+		</li>		
+		
+		<li id="li_3" >
+		<label class="description" for="gene_list">Please enter gene identifiers in the chosen format into the form below</label>
+		<div>
+			<textarea id="gene_list" name="gene_list" class="element textarea large"></textarea> 
+		</div>
+		</li>
+		<h4>OR</h4>
+		
+		<li id="li_4" >
+		<label class="description" for="upload_file">Upload a file with the gene list </label>
+		<div>
+			<input id="upload_file" name="upload_file" class="element file" type="file"/> 
+		</div> 
+		</li>		
+		
+		<li id="li_5" >
+		<label class="description" for="file_genes_tested">Upload a file with identifiers tested in your experiment in the same format</label>
+		<div>
+			<input id="file_genes_tested" name="file_genes_tested" class="element file" type="file"/> 
+		</div> 
+		</li>
+		
+		
+
+		<li id="li_6" >
+		<label class="description" for="stage">Stage of zebrafish </label>
+		<div>
+		<select class="element select medium" id="stage" name="stage"> 
+			<option value="" selected="selected"></option>
+			<option value="1" >Zygote:1-cell - 0 hours</option>
+			<option value="2" >Cleavage:2-cell - 1 hour</option>
+			<option value="3" >Cleavage:4-cell - 1.25 hours</option>
+			<option value="4" >Cleavage:8-cell - 1.5 hours</option>
+			<option value="5" >Cleavage:16-cell - 1.75 hours</option>
+			<option value="6" >Cleavage:32-cell - 2 hours</option>
+			<option value="7" >Cleavage:64-cell - 2.25 hours</option>
+			<option value="8" >Blastula:128-cell - 2.5 hours</option>
+			<option value="9" >Blastula:256-cell - 2.75 hours</option>
+			<option value="10" >Blastula:512-cell - 3 hours</option>
+			<option value="11" >Blastula:1k-cell - 3.33 hours</option>
+			<option value="12" >Blastula:High - 3.66 hours</option>
+			<option value="13" >Blastula:Oblong - 4 hours</option>
+			<option value="14" >Blastula:Sphere - 4.33 hours</option>
+			<option value="15" >Blastula:Dome - 4.66 hours</option>
+			<option value="16" >Blastula:30%-epiboly - 5.25 hours</option>
+			<option value="17" >Gastrula:50%-epiboly - 5.66 hours</option>
+			<option value="18" >Gastrula:Germ-ring - 6 hours</option>
+			<option value="19" >Gastrula:Shield - 6-8 hours</option>
+			<option value="20" >Gastrula:75%-epiboly - 8-9 hours</option>
+			<option value="21" >Gastrula:90%-epiboly - 9-10 hours</option>
+			<option value="22" >Gastrula:Bud - 10-10.33 hours</option>
+			<option value="23" >Segmentation:1-4 somites - 10.33-11.66 hours</option>
+			<option value="24" >Segmentation:5-9 somites - 11.66-14.0 hours</option>
+			<option value="25" >Segmentation:10-13 somites - 14-16 hours</option>
+			<option value="26" >Segmentation:14-19 somites - 16-19 hours</option>
+			<option value="27" >Segmentation:20-25 somites - 19-22 hours</option>
+			<option value="28" >Segmentation:26+ somites - 22-24 hours</option>
+			<option value="29" >Pharyngula:Prim-5 - 24-30 hours</option>
+			<option value="30" >Pharyngula:Prim-15 - 30-36 hours</option>
+			<option value="31" >Pharyngula:Prim-25 - 36-42 hours</option>
+			<option value="32" >Pharyngula:High-pec - 42-48 hours</option>
+			<option value="33" >Hatching:Long-pec - 48-60 hours</option>
+			<option value="34" >Hatching:Pec-fin - 60-72 hours</option>
+			<option value="35" >Larval:Protruding-mouth - 72-96 hours</option>
+			<option value="36" >Larval:Day 4 - 96-120 hours</option>
+			<option value="37" >Larval:Day 5 - 120-144 hours</option>
+			<option value="38" >Larval:Day 6 - 144-168 hours</option>
+			<option value="39" >Larval:Days 7-13 - 168-336 hours</option>
+			<option value="40" >Larval:Days 14-20 - 336-504 hours</option>
+			<option value="41" >Larval:Days 21-29 - 504-720 hours</option>
+			<option value="42" >Juvenile:Days 30-44 - 720-1080 hours</option>
+			<option value="43" >Juvenile:Days 45-89 - 1080-2160 hours</option>
+			<option value="44" >Adult - 2160-17520 hours</option>
+
+		</select>
+		</div> 
+		</li>		
+		 
+	 
+		<li id="li_6" >
+		<label class="description" for="sorting">Options for sorting of anatomical terms</label>
+		<div>
+		<select class="element select large" id="sorting" name="sorting"> 
+			
+			<option value="count">Gene count</option>
+			<option value="Pvalue">P-value: ascending order</option>
+			<option value="Fraction_total">Fraction of total genes with a specific term</option>
+		</select>
+		</div>
+		</li>
+			
+		<li class="buttons">
+			    <input type="hidden" name="form_id" value="362465" />
+			    
+				<input id="saveForm" class="button_text" type="submit" name="submit" value="Submit" />
+		</li>
+			</ul>
+		</form>	
+		<br />
+		<br />
+		<br />
+		<br />
+		
+		<p id="footer"> Copyright notice: ZEOGS website has been developed by Sergey Prykhozhij at Max-Planck Institute for molecular genetics, Berlin, Germany, and at IWK Health Centre and Dalhousie University in 2012. The last update of the data sets used was in April 2015.</p>
+	</div>
+	<img id="bottom" src="bottom.png" alt="">
+	</body>
+</html>

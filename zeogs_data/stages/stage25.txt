@@ -1,0 +1,345 @@
+anatomical line
+groove
+anatomical space
+anatomical structure
+acellular anatomical structure
+myoseptum
+vertical myoseptum
+cell
+adaxial cell
+digestive enzyme secreting cell
+endocrine cell
+pinealocyte
+endodermal cell
+gut endothelial cell
+glioblast
+melanoblast
+mucus secreting cell
+Rohon-Beard neuron
+yolk
+ball
+extension
+YSL
+E-YSL
+I-YSL
+embryonic structure
+hatching gland
+Kupffer's vesicle
+pancreas primordium
+polster
+presumptive diencephalon
+diencephalon
+epithalamus
+pineal complex
+epiphysis
+floor plate diencephalic region
+lateral wall diencephalic region
+optic stalk
+roof plate diencephalic region
+presumptive intervening zone
+presumptive structure
+presumptive blood
+presumptive telencephalon
+telencephalon
+floor plate telencephalic region
+lateral wall telencephalic region
+tail bud
+chordo neural hinge
+trunk
+somite
+myotome
+epaxial myotome region
+epaxial region somite 1
+epaxial region somite 2
+epaxial region somite 3
+epaxial region somite 4
+epaxial region somite 5
+epaxial region somite 6
+epaxial region somite 7
+epaxial region somite 8
+epaxial region somite 9
+epaxial region somite 10
+fast muscle cell
+fast muscle cell somite 1
+fast muscle cell somite 2
+fast muscle cell somite 3
+fast muscle cell somite 4
+fast muscle cell somite 5
+fast muscle cell somite 6
+fast muscle cell somite 7
+fast muscle cell somite 8
+fast muscle cell somite 9
+fast muscle cell somite 10
+hypaxial myotome region
+hypaxial region somite 1
+hypaxial region somite 2
+hypaxial region somite 3
+hypaxial region somite 4
+hypaxial region somite 5
+hypaxial region somite 6
+hypaxial region somite 7
+hypaxial region somite 8
+hypaxial region somite 9
+hypaxial region somite 10
+myotome somite 1
+slow muscle cell somite 1
+muscle pioneer somite 1
+myotome somite 2
+slow muscle cell somite 2
+muscle pioneer somite 2
+myotome somite 3
+slow muscle cell somite 3
+muscle pioneer somite 3
+myotome somite 4
+slow muscle cell somite 4
+muscle pioneer somite 4
+myotome somite 5
+slow muscle cell somite 5
+muscle pioneer somite 5
+myotome somite 6
+slow muscle cell somite 6
+muscle pioneer somite 6
+myotome somite 7
+slow muscle cell somite 7
+muscle pioneer somite 7
+myotome somite 8
+slow muscle cell somite 8
+muscle pioneer somite 8
+myotome somite 9
+slow muscle cell somite 9
+muscle pioneer somite 9
+myotome somite 10
+slow muscle cell somite 10
+muscle pioneer somite 10
+slow muscle cell
+muscle pioneer
+sclerotome
+sclerotome somite 1
+sclerotome somite 2
+sclerotome somite 3
+sclerotome somite 4
+sclerotome somite 5
+sclerotome somite 6
+sclerotome somite 7
+sclerotome somite 8
+sclerotome somite 9
+sclerotome somite 10
+somite 1
+somite 2
+somite 3
+somite 4
+somite 5
+somite 6
+somite 7
+somite 8
+somite 9
+somite 10
+extraembryonic structure
+chorion
+organism subdivision
+head
+cranium
+splanchnocranium
+pharyngeal arch 3-7 skeleton
+pharyngeal arch
+pharyngeal arch 1
+pharyngeal arch 2
+pharyngeal arch 3-7
+pharyngeal arch 3
+pharyngeal arch 4
+pharyngeal arch 5
+pharyngeal arch 6
+pharyngeal arch 7
+neuromere
+rhombomere
+rhombomere 1
+floor plate rhombomere 1
+lateral wall rhombomere 1
+roof plate rhombomere 1
+upper rhombic lip
+rhombomere 2
+floor plate rhombomere 2
+lateral wall rhombomere 2
+lower rhombic lip
+roof plate rhombomere 2
+rhombomere 3
+floor plate rhombomere 3
+lateral wall rhombomere 3
+roof plate rhombomere 3
+rhombomere 4
+floor plate rhombomere 4
+lateral wall rhombomere 4
+roof plate rhombomere 4
+rhombomere 5
+floor plate rhombomere 5
+lateral wall rhombomere 5
+roof plate rhombomere 5
+rhombomere 6
+floor plate rhombomere 6
+lateral wall rhombomere 6
+roof plate rhombomere 6
+rhombomere 7
+floor plate rhombomere 7
+lateral wall rhombomere 7
+roof plate rhombomere 7
+rhombomere 8
+floor plate rhombomere 8
+lateral wall rhombomere 8
+roof plate rhombomere 8
+roof plate rhombomere region
+surface structure
+integument
+portion of tissue
+alar plate midbrain region
+anterior lateral plate mesoderm
+anterior neural rod
+forebrain midbrain boundary neural rod
+midbrain neural rod
+midbrain neural tube
+midbrain
+lateral wall midbrain region
+tectal ventricle
+anterior neural tube
+basal plate midbrain region
+endocardial precursor
+forebrain neural rod
+forebrain neural tube
+forebrain
+telencephalon diencephalon boundary
+ganglion
+cranial ganglion
+heart primordium
+hindbrain neural keel
+hindbrain neural rod
+hindbrain neural tube
+hindbrain
+floor plate rhombomere region
+rhombic lip
+hypochord
+lateral floor plate
+lens placode
+medial floor plate
+mesenchyme
+head mesenchyme
+mesenchyme derived from head mesoderm
+mesenchyme derived from head neural crest
+trunk mesenchyme
+intermediate mesenchyme
+lateral mesenchyme derived from mesoderm
+mesenchyme derived from trunk neural crest
+lateral migration pathway mesenchyme
+medial migration pathway mesenchyme
+paraxial mesoderm
+segmental plate
+myocardial precursor
+neural crest
+cranial neural crest
+facial neural crest
+facio-acoustic neural crest
+neural crest diencephalon
+neural crest midbrain
+neural crest telencephalon
+trigeminal neural crest
+neural crest cell
+trunk neural crest
+neural keel
+midbrain hindbrain boundary neural keel
+midbrain hindbrain boundary neural rod
+posterior neural keel
+posterior neural rod
+posterior neural tube
+spinal cord neural rod
+spinal cord neural keel
+neural rod
+floor plate neural rod
+lateral wall neural rod
+neural tube
+brain
+neuroectoderm
+primary neuron
+primary interneuron
+primary neuron hindbrain
+non neural ectoderm
+notochord
+notochord posterior region
+optic vesicle
+primary germ layer
+ectoderm
+periderm
+pharyngeal ectoderm
+endoderm
+gut
+gut absorptive cell
+pharyngeal endoderm
+mesoderm
+axial mesoderm
+prechordal plate
+intermediate mesoderm
+lateral mesoderm
+lateral plate mesoderm
+pharyngeal mesoderm
+ventral lateral mesoderm
+ventral mesoderm
+roof plate midbrain region
+whole organism
+female organism
+embryo
+anatomical set
+anatomical cluster
+reproductive system
+presumptive cardinal organ
+presumptive organ
+presumptive organ system
+nervous system
+central nervous system
+floor plate
+floor plate midbrain region
+roof plate
+ventricular system
+neuron
+peripheral nervous system
+immature Schwann cell
+lateral line system
+anterior lateral line system
+anterior lateral line placode
+posterior lateral line system
+posterior lateral line placode
+sensory system
+olfactory system
+olfactory placode
+primitive olfactory epithelium
+olfactory receptor cell
+vestibuloauditory system
+otic placode
+visual system
+neurogenic field
+olfactory field
+Kolmer-Agduhr neuron
+hematopoietic system
+lateral cells
+musculature system
+trunk musculature
+trigeminal placode
+cardiovascular system
+immature eye
+muscle cell
+skeletal muscle cell
+pectoral fin field
+digestive system
+D cell
+digestive system duct
+pancreatic system
+pharynx
+endocrine system
+immune system
+macrophage
+nucleus of the tract of the postoptic commissure
+renal system
+podocyte
+pronephric podocyte
+pronephros
+pronephric duct
+pronephric glomerulus
+pronephric tubule
+skeletal system
+visceral organ

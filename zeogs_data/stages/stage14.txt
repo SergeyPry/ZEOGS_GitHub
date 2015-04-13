@@ -1,0 +1,37 @@
+anatomical line
+groove
+anatomical space
+anatomical structure
+acellular anatomical structure
+cell
+blastomere
+deep blastomere
+marginal blastomere
+YSL
+E-YSL
+I-YSL
+organizer inducing center
+superficial blastomere
+yolk
+embryonic structure
+blastodisc
+presumptive brain
+presumptive structure
+presumptive blood
+presumptive ectoderm
+presumptive endoderm
+presumptive mesoderm
+presumptive dorsal mesoderm
+presumptive paraxial mesoderm
+presumptive ventral mesoderm
+presumptive neural plate
+extraembryonic structure
+chorion
+portion of tissue
+whole organism
+female organism
+embryo
+anatomical set
+anatomical cluster
+reproductive system
+primordial germ cell

@@ -1,0 +1,130 @@
+anatomical line
+groove
+anatomical space
+anatomical structure
+acellular anatomical structure
+myoseptum
+vertical myoseptum
+cell
+adaxial cell
+migratory slow muscle precursor cell
+endodermal cell
+Rohon-Beard neuron
+yolk
+YSL
+E-YSL
+I-YSL
+embryonic structure
+Brachet's cleft
+forerunner cell group
+Kupffer's vesicle
+polster
+presumptive cephalic mesoderm
+presumptive diencephalon
+presumptive floor plate
+presumptive intervening zone
+presumptive rhombomere 3
+presumptive rhombomere 4
+presumptive rhombomere 5
+presumptive rhombomere 6
+presumptive rhombomere 7
+presumptive rhombomere 8
+presumptive structure
+presumptive blood
+presumptive hypochord
+presumptive telencephalon
+tail bud
+chordo neural hinge
+trunk
+somite
+myotome
+myotome somite 1
+sclerotome
+sclerotome somite 1
+somite 1
+somite border
+extraembryonic structure
+chorion
+organism subdivision
+axis
+head
+surface structure
+integument
+portion of tissue
+anterior lateral mesoderm
+anterior lateral plate mesoderm
+anterior neural keel
+forebrain midbrain boundary neural keel
+midbrain neural keel
+forebrain neural keel
+ganglion
+cranial ganglion
+hindbrain neural keel
+presumptive rhombomere 1
+presumptive rhombomere 2
+hindbrain neural plate
+mesenchyme
+head mesenchyme
+mesenchyme derived from head neural crest
+trunk mesenchyme
+paraxial mesoderm
+segmental plate
+neural crest
+cranial neural crest
+trigeminal neural crest
+neural crest cell
+neural keel
+midbrain hindbrain boundary neural keel
+posterior neural keel
+spinal cord neural keel
+neural plate
+midbrain hindbrain boundary neural plate
+posterior neural plate
+spinal cord neural plate
+proneural cluster
+neuroectoderm
+primary neuron
+primary motor neuron
+non neural ectoderm
+notochord
+notochord posterior region
+optic primordium
+primary germ layer
+ectoderm
+periderm
+endoderm
+mesoderm
+axial mesoderm
+prechordal plate
+intermediate mesoderm
+lateral mesoderm
+lateral plate mesoderm
+posterior lateral mesoderm
+pronephric mesoderm
+ventral lateral mesoderm
+ventral mesoderm
+whole organism
+female organism
+embryo
+anatomical set
+anatomical cluster
+reproductive system
+presumptive cardinal organ
+presumptive organ
+presumptive organ system
+nervous system
+central nervous system
+neuron
+peripheral nervous system
+sensory system
+vestibuloauditory system
+otic placode
+neurogenic field
+Kolmer-Agduhr neuron
+hematopoietic system
+lateral cells
+muscle stem cell
+myoblast
+musculature system
+trunk musculature
+trigeminal placode
